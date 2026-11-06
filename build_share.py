@@ -1,4 +1,4 @@
-"""Gera p/<id>.html para cada post: página leve com Open Graph (imagem, manchete e
+"""Gera p/<id>.html para cada post (redireciona por JavaScript, não por meta refresh, para os robôs do WhatsApp lerem a imagem desta página): página leve com Open Graph (imagem, manchete e
 descrição) para o link aparecer como card de notícia no WhatsApp; o visitante é levado
 direto ao post no site. Uso: python3 build_share.py"""
 import json, html, os
@@ -20,7 +20,7 @@ for p in d["posts"]:
 <meta property="og:title" content="{t}"><meta property="og:description" content="{desc}">
 <meta property="og:image" content="{img}"><meta property="og:image:width" content="600"><meta property="og:image:height" content="338">
 <meta property="og:url" content="{BASE}/p/{pid}.html"><meta name="twitter:card" content="summary_large_image">
-<link rel="canonical" href="{alvo}"><meta http-equiv="refresh" content="0; url={alvo}">
+<link rel="canonical" href="{BASE}/p/{pid}.html"><script>location.replace("{alvo}")</script>
 </head><body><p><a href="{alvo}">{t}</a></p></body></html>''')
 for f in os.listdir("p"):
     if f not in vivos: os.remove(os.path.join("p", f))
