@@ -1,6 +1,33 @@
 {
- "atualizadoEm": "2026-11-06T14:43:30-03:00",
+ "atualizadoEm": "2026-11-06T20:45:00-03:00",
  "posts": [
+  {
+   "id": "stf-adi-6251-necrims-conciliacao",
+   "data": "2026-11-04",
+   "tribunal": "STF",
+   "orgao": "Plenário",
+   "area": "Processo Penal",
+   "impacto": "neutro",
+   "temas": [
+    "Alterações legislativas"
+   ],
+   "titulo": "STF: Plenário valida decreto paulista que criou núcleos de conciliação de infrações de menor potencial ofensivo na Polícia Civil",
+   "assunto": "Núcleos Especiais Criminais (NECRIMs): organização por decreto estadual",
+   "processo": "ADI 6.251/SP, Rel. Ministro André Mendonça, Plenário, julgamento virtual finalizado em 19.10.2026.",
+   "fonteNome": "Informativo STF n. 1235 (4/11/2026)",
+   "fonteUrl": "https://www.stf.jus.br/arquivo/informativo/documento/informativo.htm",
+   "rotuloTexto": "Destaque oficial",
+   "texto": "",
+   "ementaPendente": true,
+   "tags": [
+    "NECRIM",
+    "menor potencial ofensivo",
+    "conciliação",
+    "ADI 6.251"
+   ],
+   "imagem": "img/stf-adi-6251-necrims-conciliacao.jpg",
+   "imagemAlt": "Mesa redonda com duas cadeiras vazias frente a frente"
+  },
   {
    "id": "stj-inf908-importunacao-sem-contato-fisico",
    "data": "2026-11-03",
