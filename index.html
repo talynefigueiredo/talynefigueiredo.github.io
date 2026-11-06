@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Radar Criminal</title>
+<meta name="description" content="Decisões criminais do STF, STJ, TJRS, TJSC e TRF4 e mudanças na legislação penal, todos os dias, com link da fonte oficial e ementa.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Radar Criminal">
+<meta property="og:title" content="Radar Criminal">
+<meta property="og:description" content="Decisões criminais do STF, STJ, TJRS, TJSC e TRF4, todos os dias, com a fonte oficial e a ementa.">
+<meta property="og:url" content="https://talynefigueiredo.github.io/">
+<meta property="og:image" content="https://talynefigueiredo.github.io/brand/logo-grupo-640.jpg">
+<link rel="icon" href="brand/logo-grupo.png">
+<link rel="canonical" href="https://talynefigueiredo.github.io/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700;800&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap" rel="stylesheet">
+<style>
+:root {
+  /* Layout: navegação translúcida; abertura em duas colunas; barra de filtros fixa; destaques em faixa; feed em coluna única */
+  --bg: #FBFBFD;
+  --bg-alt: #F3F1EE;
+  --card: #FFFFFF;
+  --ink: #1D1D1F;
+  --muted: #6E6E73;
+  --hair: #E6E3DF;
+  --wine: #6B2430;
+  --gold: #A27A3E;
+  --favor: #1B7F4B;
+  --favor-bg: #E7F4EC;
+  --contra: #C0392B;
+  --contra-bg: #FBEAE7;
+  --font: "Figtree", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+  --font-text: "Source Serif 4", Georgia, "Times New Roman", serif;
+  --radius: 22px;
+  color-scheme: light;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } *, *::before, *::after { transition: none !important; animation: none !important; } }
+body { margin: 0; background: var(--bg); color: var(--ink); font-family: var(--font); font-size: 17px; line-height: 1.6; -webkit-font-smoothing: antialiased; }
+img { max-width: 100%; display: block; }
+a { color: var(--wine); text-underline-offset: 3px; }
+button { font: inherit; color: inherit; }
+:focus-visible { outline: 3px solid rgba(162, 122, 62, 0.55); outline-offset: 2px; border-radius: 10px; }
+h1, h2, h3 { text-wrap: balance; margin: 0; }
+.wrap { max-width: 1080px; margin: 0 auto; padding: 0 22px; }
+
+/* Navegação */
+.nav { position: sticky; top: 0; z-index: 30; background: rgba(251, 251, 253, 0.78); backdrop-filter: saturate(180%) blur(20px); -webkit-backdrop-filter: saturate(180%) blur(20px); border-bottom: 1px solid rgba(0,0,0,0.06); }
+.nav .wrap { display: flex; align-items: center; justify-content: space-between; height: 60px; gap: 16px; }
+.brand { display: flex; align-items: center; gap: 10px; text-decoration: none; color: var(--ink); }
+.brand img { height: 30px; width: auto; }
+.brand span { font-weight: 700; font-size: 17px; letter-spacing: -0.01em; }
+.links { display: flex; align-items: center; gap: 4px; }
+.links a { color: var(--ink); text-decoration: none; font-size: 14.5px; font-weight: 500; padding: 7px 12px; border-radius: 999px; opacity: 0.85; }
+.links a:hover { opacity: 1; background: rgba(0,0,0,0.04); }
+.links a.pill { background: var(--ink); color: #fff; opacity: 1; }
+
+/* Abertura */
+.hero { padding: 64px 0 40px; }
+.hero .wrap { display: grid; grid-template-columns: 1.25fr 0.75fr; gap: 56px; align-items: center; }
+.live { display: inline-flex; align-items: center; gap: 8px; font-size: 14px; font-weight: 600; color: var(--muted); }
+.live i { width: 8px; height: 8px; border-radius: 50%; background: var(--favor); box-shadow: 0 0 0 0 rgba(27,127,75,0.5); animation: pulse 2.4s infinite; }
+@keyframes pulse { 0% { box-shadow: 0 0 0 0 rgba(27,127,75,0.45); } 70% { box-shadow: 0 0 0 9px rgba(27,127,75,0); } 100% { box-shadow: 0 0 0 0 rgba(27,127,75,0); } }
+.hero h1 { font-size: clamp(44px, 6.4vw, 76px); font-weight: 800; letter-spacing: -0.035em; line-height: 1.02; margin: 14px 0 18px; }
+.hero h1 em { font-style: normal; color: var(--wine); }
+.hero .sub { font-size: clamp(19px, 2vw, 22px); color: var(--muted); line-height: 1.45; max-width: 30ch; margin: 0 0 28px; font-weight: 500; }
+.ctas { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
+.btn-p { display: inline-flex; align-items: center; gap: 8px; background: var(--wine); color: #fff; text-decoration: none; font-weight: 600; font-size: 16px; padding: 13px 22px; border-radius: 999px; border: none; cursor: pointer; transition: transform .15s, background .15s; }
+.btn-p:hover { background: #541b25; transform: translateY(-1px); }
+.btn-l { color: var(--wine); font-weight: 600; text-decoration: none; font-size: 16px; padding: 13px 6px; }
+.btn-l:hover { text-decoration: underline; }
+.stats { display: flex; gap: 28px; margin-top: 36px; padding-top: 24px; border-top: 1px solid var(--hair); }
+.stats div b { display: block; font-size: 30px; font-weight: 800; letter-spacing: -0.02em; font-variant-numeric: tabular-nums; line-height: 1.1; }
+.stats div span { font-size: 14px; color: var(--muted); font-weight: 500; }
+.stats .f b { color: var(--favor); } .stats .c b { color: var(--contra); }
+.photo { position: relative; }
+.photo .ph { border-radius: 32px; overflow: hidden; aspect-ratio: 3 / 4; background: var(--bg-alt); box-shadow: 0 30px 60px -20px rgba(60, 30, 20, 0.28); }
+.photo .ph img { width: 100%; height: 100%; object-fit: cover; object-position: center 20%; }
+.photo .cap { position: absolute; left: 16px; right: 16px; bottom: 16px; background: rgba(255,255,255,0.82); backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px); border-radius: 18px; padding: 12px 16px; display: flex; align-items: center; gap: 12px; }
+.photo .cap img { height: 34px; width: auto; }
+.photo .cap span { font-size: 14px; font-weight: 600; line-height: 1.3; }
+.photo .cap small { display: block; font-size: 12.5px; font-weight: 500; color: var(--muted); }
+
+/* Destaques */
+.highlights { padding: 8px 0 8px; }
+.sec-head { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; margin-bottom: 16px; }
+.sec-head h2 { font-size: 28px; font-weight: 800; letter-spacing: -0.025em; }
+.sec-head p { margin: 0; color: var(--muted); font-size: 15px; }
+.rail { display: grid; grid-auto-flow: column; grid-auto-columns: minmax(280px, 1fr); gap: 16px; overflow-x: auto; scroll-snap-type: x mandatory; padding-bottom: 8px; scrollbar-width: none; }
+.rail::-webkit-scrollbar { display: none; }
+.hcard { scroll-snap-align: start; background: var(--card); border-radius: var(--radius); padding: 22px; box-shadow: 0 1px 2px rgba(0,0,0,0.04), 0 8px 24px rgba(0,0,0,0.05); text-decoration: none; color: var(--ink); display: flex; flex-direction: column; gap: 10px; min-height: 190px; transition: transform .2s, box-shadow .2s; }
+.hcard:hover { transform: translateY(-3px); box-shadow: 0 2px 4px rgba(0,0,0,0.04), 0 16px 36px rgba(0,0,0,0.08); }
+.hcard h3 { font-size: 19px; font-weight: 700; letter-spacing: -0.012em; line-height: 1.3; }
+.hcard .go { margin-top: auto; color: var(--wine); font-weight: 600; font-size: 15px; }
+
+/* Filtros */
+.filters { position: sticky; top: 60px; z-index: 20; background: rgba(251, 251, 253, 0.86); backdrop-filter: saturate(180%) blur(20px); -webkit-backdrop-filter: saturate(180%) blur(20px); margin-top: 40px; border-top: 1px solid rgba(0,0,0,0.05); border-bottom: 1px solid rgba(0,0,0,0.05); }
+.filters .wrap { display: grid; gap: 10px; padding-top: 12px; padding-bottom: 12px; }
+.frow { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.seg { display: inline-flex; background: #ECEAE6; border-radius: 12px; padding: 3px; gap: 2px; overflow-x: auto; max-width: 100%; scrollbar-width: none; }
+.seg::-webkit-scrollbar { display: none; }
+.seg button { flex: none; border: none; background: transparent; font-weight: 600; font-size: 14.5px; padding: 7px 14px; border-radius: 9px; cursor: pointer; color: #3a3a3c; white-space: nowrap; transition: background .15s, box-shadow .15s; }
+.seg button .n { font-weight: 500; color: var(--muted); margin-left: 4px; font-variant-numeric: tabular-nums; font-size: 13px; }
+.seg button[aria-pressed="true"] { background: #fff; color: var(--ink); box-shadow: 0 1px 3px rgba(0,0,0,0.12); }
+.seg button.fav[aria-pressed="true"] { color: var(--favor); }
+.seg button.des[aria-pressed="true"] { color: var(--contra); }
+.chips { display: flex; gap: 8px; overflow-x: auto; scrollbar-width: none; padding: 1px; }
+.chips::-webkit-scrollbar { display: none; }
+.chip { flex: none; border: 1px solid var(--hair); background: var(--card); font-weight: 600; font-size: 14px; padding: 6px 13px; border-radius: 999px; cursor: pointer; white-space: nowrap; }
+.chip:hover { border-color: #cfc8c0; }
+.chip[aria-pressed="true"] { background: var(--ink); border-color: var(--ink); color: #fff; }
+.chip .n { font-weight: 500; opacity: 0.6; margin-left: 4px; font-size: 12.5px; }
+.search { position: relative; display: block; flex: 1 1 100%; min-width: 0; }
+.search input { width: 100%; font: inherit; font-size: 15.5px; padding: 9px 14px 9px 38px; border-radius: 12px; border: none; background: #ECEAE6; color: var(--ink); }
+.search input:focus { outline: none; background: #fff; box-shadow: 0 0 0 3px rgba(162,122,62,0.35); }
+.search svg { position: absolute; left: 13px; top: 50%; transform: translateY(-50%); color: var(--muted); }
+
+/* Feed */
+.feed-wrap { padding-top: 28px; padding-bottom: 72px; }
+.resline { font-size: 15px; color: var(--muted); margin: 0 0 18px; }
+.resline button { border: none; background: none; color: var(--wine); font-weight: 600; cursor: pointer; padding: 0 4px; }
+.feed { max-width: 820px; margin: 0 auto; }
+.day { margin-bottom: 34px; }
+.day h2 { font-size: 15px; font-weight: 700; color: var(--muted); margin: 0 0 12px 4px; }
+.posts { display: grid; gap: 16px; }
+.post { background: var(--card); border-radius: var(--radius); overflow: hidden; padding: 26px 28px 22px; box-shadow: 0 1px 2px rgba(0,0,0,0.04), 0 8px 24px rgba(0,0,0,0.04); scroll-margin-top: 200px; transition: box-shadow .2s; }
+.cover { position: relative; margin: -26px -28px 20px; aspect-ratio: 21 / 9; background: #EFEBE6; overflow: hidden; }
+.cover img { width: 100%; height: 100%; object-fit: cover; transition: transform .6s ease; }
+.post:hover .cover img { transform: scale(1.03); }
+.cover small { position: absolute; right: 12px; bottom: 10px; font-size: 11.5px; font-weight: 600; color: #fff; background: rgba(0,0,0,0.38); backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px); padding: 3px 9px; border-radius: 999px; }
+.hcard { padding: 0 !important; overflow: hidden; }
+.hcard .hc-img { aspect-ratio: 16 / 9; background: #EFEBE6; overflow: hidden; }
+.hcard .hc-img img { width: 100%; height: 100%; object-fit: cover; transition: transform .6s ease; }
+.hcard:hover .hc-img img { transform: scale(1.04); }
+.hcard .hc-body { padding: 18px 22px 22px; display: flex; flex-direction: column; gap: 10px; flex: 1; }
+.post.highlight { box-shadow: 0 0 0 3px rgba(162,122,62,0.55); }
+.meta { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; font-size: 14px; color: var(--muted); font-weight: 500; }
+.court { font-weight: 700; color: var(--ink); }
+.dotsep::before { content: "·"; }
+.badge { margin-left: auto; display: inline-flex; align-items: center; gap: 6px; font-size: 13px; font-weight: 700; padding: 4px 11px; border-radius: 999px; }
+.badge::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: currentColor; }
+.badge.favoravel { background: var(--favor-bg); color: var(--favor); }
+.badge.desfavoravel { background: var(--contra-bg); color: var(--contra); }
+.badge.neutro { background: #EFEDEA; color: var(--muted); }
+.post h3 { font-size: 23px; font-weight: 700; letter-spacing: -0.018em; line-height: 1.3; margin: 12px 0 8px; }
+.post h3 a { color: var(--ink); text-decoration: none; }
+.post h3 a:hover { color: var(--wine); }
+.processo { font-size: 15px; color: var(--muted); margin: 0 0 12px; }
+.leia { font-size: 16px; margin: 0 0 14px; }
+.leia b { font-weight: 700; }
+.leia a { font-weight: 600; word-break: break-word; }
+.ementa { background: #F7F5F2; border-radius: 16px; padding: 16px 18px; }
+.ementa .lbl { font-size: 12.5px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: var(--gold); margin-bottom: 6px; }
+.ementa .assunto { font-family: var(--font-text); font-weight: 600; font-size: 15.5px; line-height: 1.5; margin: 0 0 8px; }
+.ementa .txt { font-family: var(--font-text); font-weight: 500; font-size: 17px; line-height: 1.65; margin: 0; white-space: pre-line; }
+.ementa.clamp .body { display: -webkit-box; -webkit-line-clamp: 5; -webkit-box-orient: vertical; overflow: hidden; }
+.ementa .pend { margin: 0; color: var(--muted); font-size: 15.5px; }
+.more { margin-top: 8px; border: none; background: none; padding: 0; color: var(--wine); font-weight: 700; font-size: 15px; cursor: pointer; }
+.foot { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-top: 16px; }
+.act { border: none; background: #F2F0ED; font-weight: 600; font-size: 14px; padding: 8px 14px; border-radius: 999px; cursor: pointer; text-decoration: none; color: var(--ink); display: inline-flex; align-items: center; gap: 6px; transition: background .15s; }
+.act:hover { background: #E8E5E1; }
+.act.zap { background: #E7F7EE; color: #11804A; }
+.act.zap:hover { background: #d7f1e3; }
+.tema { margin-left: 0; border: none; background: none; font-size: 13.5px; font-weight: 600; color: var(--muted); cursor: pointer; padding: 4px 2px; }
+.tema:hover { color: var(--wine); }
+.act + .tema { margin-left: auto; }
+.empty { text-align: center; padding: 48px 24px; background: var(--card); border-radius: var(--radius); color: var(--muted); }
+.empty b { display: block; color: var(--ink); font-size: 19px; margin-bottom: 6px; }
+
+/* Seções */
+.band { padding: 80px 0; }
+.band.alt { background: var(--bg-alt); }
+.band h2 { font-size: clamp(32px, 4vw, 44px); font-weight: 800; letter-spacing: -0.03em; margin-bottom: 12px; }
+.band .lead { font-size: 19px; color: var(--muted); max-width: 52ch; margin: 0 0 32px; }
+.grid3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
+.tile { background: var(--card); border-radius: var(--radius); padding: 26px; box-shadow: 0 1px 2px rgba(0,0,0,0.04), 0 8px 24px rgba(0,0,0,0.04); }
+.tile .k { font-size: 13px; font-weight: 700; color: var(--gold); text-transform: uppercase; letter-spacing: 0.06em; }
+.tile h3 { font-size: 21px; font-weight: 700; letter-spacing: -0.015em; margin: 8px 0 6px; line-height: 1.3; }
+.tile p { margin: 0; color: var(--muted); font-size: 16px; }
+.about { display: grid; grid-template-columns: 0.8fr 1.2fr; gap: 56px; align-items: center; }
+.about p { font-size: 18px; max-width: 54ch; margin: 0 0 14px; }
+.about .ph { border-radius: 28px; overflow: hidden; aspect-ratio: 4 / 5; }
+.about .ph img { width: 100%; height: 100%; object-fit: cover; object-position: center 22%; }
+.join { text-align: center; }
+.join .lead { margin: 0 auto 28px; }
+.join .note { font-size: 14px; color: var(--muted); margin-top: 14px; }
+.eyebrow-k { display: inline-block; font-size: 13px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--gold); margin-bottom: 10px; }
+.whoami { margin-top: 72px; }
+.minicv { background: var(--card); border-radius: 28px; padding: 44px 48px; box-shadow: 0 1px 2px rgba(0,0,0,0.04), 0 8px 24px rgba(0,0,0,0.05); max-width: 900px; }
+.minicv p { font-size: 18.5px; line-height: 1.65; margin: 0 0 14px; max-width: 64ch; }
+.facts { list-style: none; margin: 28px 0 0; padding: 24px 0 0; border-top: 1px solid var(--hair); display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+.facts b { display: block; font-size: 17px; font-weight: 700; margin-bottom: 4px; }
+.facts span { font-size: 15px; color: var(--muted); line-height: 1.45; display: block; }
+footer { padding: 36px 0 48px; border-top: 1px solid var(--hair); font-size: 14px; color: var(--muted); }
+footer .wrap { display: grid; gap: 10px; }
+footer .row1 { display: flex; align-items: center; gap: 10px; color: var(--ink); font-weight: 600; }
+footer .row1 img { height: 24px; }
+.fab { position: fixed; right: 22px; bottom: 22px; z-index: 55; display: inline-flex; align-items: center; gap: 10px; padding: 13px 20px 13px 16px; border-radius: 999px; background: var(--wine); color: #fff; font-weight: 700; font-size: 15.5px; text-decoration: none; box-shadow: 0 6px 22px rgba(107,36,48,0.32), 0 1px 3px rgba(0,0,0,0.12); transition: transform .18s, box-shadow .18s; }
+.fab:hover { transform: translateY(-2px); box-shadow: 0 10px 28px rgba(107,36,48,0.38); }
+.fab svg { flex: none; }
+.fab[hidden] { display: none; }
+.insta { display: inline-flex; align-items: center; gap: 10px; margin-top: 22px; padding: 11px 18px; border-radius: 999px; border: 1.5px solid var(--hair); color: var(--ink); font-weight: 700; font-size: 15.5px; text-decoration: none; transition: border-color .18s, color .18s; }
+.insta:hover { border-color: var(--wine); color: var(--wine); }
+.insta small { font-weight: 600; color: var(--muted); font-size: 14px; }
+footer .social a { color: var(--ink); font-weight: 600; text-decoration: none; }
+footer .social a:hover { color: var(--wine); }
+.toast { position: fixed; bottom: 26px; left: 50%; transform: translate(-50%, 12px); background: rgba(29,29,31,0.92); color: #fff; padding: 11px 20px; border-radius: 999px; font-size: 15px; font-weight: 600; opacity: 0; pointer-events: none; transition: opacity .2s, transform .2s; z-index: 60; }
+.toast.on { opacity: 1; transform: translate(-50%, 0); }
+
+@media (max-width: 900px) {
+  .hero { padding-top: 40px; }
+  .hero .wrap, .about { grid-template-columns: 1fr; gap: 36px; }
+  .photo { max-width: 360px; }
+  .grid3, .facts { grid-template-columns: 1fr; }
+  .minicv { padding: 30px 24px; }
+  .links a:not(.pill) { display: none; }
+  .about .ph { max-width: 360px; }
+}
+@media (max-width: 560px) {
+  body { font-size: 16.5px; }
+  .wrap { padding: 0 18px; }
+  .filters { position: static; }
+  .stats { gap: 18px; }
+  .stats div b { font-size: 26px; }
+  .post { padding: 20px 18px 18px; }
+  .cover { margin: -20px -18px 16px; aspect-ratio: 16 / 9; }
+  .post h3 { font-size: 21px; }
+  .badge { margin-left: 0; }
+  .tema { margin-left: 0; }
+  .sec-head p { display: none; }
+  .band { padding: 60px 0; }
+  .fab { right: 14px; bottom: 14px; padding: 12px 16px 12px 13px; font-size: 14.5px; }
+}
+</style>
+</head>
+<body>
+<header class="nav">
+  <div class="wrap">
+    <a class="brand" href="#inicio" aria-label="Radar Criminal, início"><img src="logo-mark.png" alt="" width="58" height="30"><span>Radar Criminal</span></a>
+    <nav class="links" aria-label="Seções">
+      <a href="#decisoes">Decisões</a>
+      <a href="#artigos">Artigos</a>
+      <a href="#sobre">Sobre</a>
+      <a class="pill" href="#grupo">Grupo</a>
+    </nav>
+  </div>
+</header>
+
+<section class="hero" id="inicio">
+  <div class="wrap">
+    <div>
+      <span class="live"><i></i><span id="upd">Atualizado diariamente</span></span>
+      <h1>Radar <em>Criminal</em>.</h1>
+      <p class="sub">O que o STF, o STJ, o TJRS, o TJSC e o TRF4 decidiram, com a fonte oficial e a ementa.</p>
+      <div class="ctas">
+        <a class="btn-p" href="#decisoes">Ver as decisões</a>
+        <a class="btn-l" href="#grupo">Receber no WhatsApp ›</a>
+      </div>
+      <div class="stats" aria-label="Resumo">
+        <div><b id="sT">–</b><span>decisões</span></div>
+        <div class="f"><b id="sF">–</b><span>favoráveis à defesa</span></div>
+        <div class="c"><b id="sD">–</b><span>desfavoráveis</span></div>
+      </div>
+    </div>
+    <figure class="photo" style="margin:0">
+      <div class="ph"><img src="talyne.jpg" alt="Talyne Figueiredo" width="720" height="960"></div>
+      <figcaption class="cap"><img src="logo-mark.png" alt="" width="66" height="34"><span>Talyne Figueiredo<small>Curadoria do Radar Criminal</small></span></figcaption>
+    </figure>
+  </div>
+</section>
+
+<section class="highlights">
+  <div class="wrap">
+    <div class="sec-head"><h2>Em destaque</h2><p>As decisões mais recentes favoráveis à defesa</p></div>
+    <div class="rail" id="rail"></div>
+  </div>
+</section>
+
+<section class="filters" id="decisoes" aria-label="Filtros">
+  <div class="wrap">
+    <div class="frow">
+      <div class="seg" id="fTrib" role="group" aria-label="Tribunal"></div>
+      <div class="seg" id="fImp" role="group" aria-label="Efeito para a defesa"></div>
+    </div>
+    <div class="frow">
+      <div class="chips" id="fTema" role="group" aria-label="Tema"></div>
+    </div>
+    <div class="frow">
+      <label class="search" for="q">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="q" type="search" placeholder="Buscar por tema, artigo de lei ou número do processo" autocomplete="off">
+      </label>
+    </div>
+  </div>
+</section>
+
+<div class="wrap feed-wrap">
+  <div class="feed">
+    <p class="resline" id="res"></p>
+    <main id="feed" aria-live="polite"></main>
+  </div>
+</div>
+
+<section class="band alt" id="artigos">
+  <div class="wrap">
+    <h2>Artigos</h2>
+    <p class="lead">Textos para entender as decisões e aplicá-las na prática. A primeira série está em preparação.</p>
+    <div class="grid3">
+      <div class="tile"><span class="k">Execução penal</span><h3>Remição, progressão e indulto</h3><p>Como conferir cálculos e prazos e quando provocar o juízo da execução.</p></div>
+      <div class="tile"><span class="k">Provas</span><h3>Busca pessoal e domiciliar no STJ</h3><p>O que a Corte exige como fundada suspeita e fundadas razões.</p></div>
+      <div class="tile"><span class="k">Recursos</span><h3>HC, RHC e revisão criminal</h3><p>Qual via cabe em cada momento do processo, segundo STF e STJ.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="band" id="sobre">
+  <div class="wrap about">
+    <div class="ph"><img src="talyne.jpg" alt="Talyne Figueiredo" width="720" height="960" loading="lazy"></div>
+    <div>
+      <span class="eyebrow-k">O projeto</span>
+      <h2>O que é o Radar Criminal</h2>
+      <p>O Radar Criminal é um projeto que eu criei para acompanhar, todos os dias, o que muda no direito penal, no processo penal e na execução penal.</p>
+      <p>Ele reúne decisões do STF, do STJ, do TJRS, do TJSC e do TRF4 e as alterações na legislação penal. Cada publicação traz a manchete, o link da fonte oficial e a ementa, sem opinião sobre o caso, para que quem estuda ou trabalha na área consulte a fonte e tire as próprias conclusões.</p>
+    </div>
+  </div>
+  <div class="wrap whoami">
+    <div class="minicv">
+      <span class="eyebrow-k">Quem sou eu</span>
+      <h2>Talyne Figueiredo</h2>
+      <p>Sou graduada em Direito pela Universidade Federal de Pelotas (UFPel) e especialista em Ciências Criminais, em Direito Penal e Processual Penal e em Criminologia. Pesquiso as ciências criminais em suas várias frentes, do direito penal à execução da pena.</p>
+      <p>Sou coautora de obra coletiva sobre o sistema penal e tenho artigos publicados em revistas e congressos da área. O Radar Criminal nasce dessa rotina de estudo: acompanhar de perto o que os tribunais decidem e compartilhar isso de forma organizada.</p>
+      <ul class="facts">
+        <li><b>Graduação</b><span>Direito · UFPel</span></li>
+        <li><b>3 especializações</b><span>Ciências Criminais, Direito Penal e Processual Penal, Criminologia</span></li>
+        <li><b>Publicações</b><span>Obra coletiva e artigos na área criminal</span></li>
+      </ul>
+      <a class="insta" href="https://www.instagram.com/adv.talynefigueiredo/" target="_blank" rel="noopener"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"/></svg>Acompanhe no Instagram <small>@adv.talynefigueiredo</small></a>
+    </div>
+  </div>
+</section>
+
+<section class="band alt join" id="grupo">
+  <div class="wrap">
+    <h2>O Radar no seu WhatsApp.</h2>
+    <p class="lead">Um resumo por dia, com as decisões mais importantes e o link da fonte oficial.</p>
+    <a class="btn-p" id="grupoBtn" href="#grupo" aria-disabled="true">Grupo abre em breve</a>
+    <p class="note">Conteúdo informativo. O grupo não presta consultoria nem atendimento jurídico.</p>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div class="row1"><img src="logo-mark.png" alt="" width="46" height="24">Radar Criminal</div>
+    <div class="social"><a href="https://www.instagram.com/adv.talynefigueiredo/" target="_blank" rel="noopener">Instagram</a> · <a href="https://chat.whatsapp.com/HPqADdmWNigGoGLBU06pu4" target="_blank" rel="noopener">Grupo no WhatsApp</a></div>
+    <div>© <span id="ano"></span> Talyne Figueiredo. Conteúdo informativo e educacional; não constitui consultoria jurídica.</div>
+    <div>Ementas e textos de decisões são reproduzidos das fontes oficiais indicadas em cada publicação (decisões judiciais e atos oficiais não são protegidos por direito autoral, Lei 9.610/98, art. 8º, IV). A seleção, a classificação para a defesa e as imagens ilustrativas dos cards são feitas com apoio de inteligência artificial; as imagens não retratam os casos nem as pessoas envolvidas; leia sempre o inteiro teor antes de citar.</div>
+  </div>
+</footer>
+
+<a class="fab" id="fab" href="https://chat.whatsapp.com/HPqADdmWNigGoGLBU06pu4" target="_blank" rel="noopener" aria-label="Entrar no grupo do Radar Criminal no WhatsApp"><svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2.2a9.7 9.7 0 0 0-8.4 14.6L2.3 21.7l5-1.3A9.7 9.7 0 1 0 12 2.2Zm0 17.7a8 8 0 0 1-4.1-1.1l-.3-.2-3 .8.8-2.9-.2-.3A8 8 0 1 1 12 19.9Zm4.4-6c-.2-.1-1.4-.7-1.7-.8-.2-.1-.4-.1-.5.1l-.8.9c-.1.2-.3.2-.5.1a6.6 6.6 0 0 1-3.3-2.9c-.2-.4.2-.4.7-1.3.1-.2 0-.3 0-.4l-.8-1.8c-.2-.5-.4-.4-.5-.4h-.5a.9.9 0 0 0-.6.3 2.7 2.7 0 0 0-.8 2c0 1.2.9 2.3 1 2.5.1.1 1.7 2.6 4.1 3.6 1.5.7 2.1.7 2.9.6.5-.1 1.4-.6 1.6-1.1.2-.6.2-1 .1-1.1l-.4-.3Z"/></svg><span>Entrar no grupo</span></a>
+<div class="toast" id="toast" role="status"></div>
+
+<script>
+const SITE = { grupoWhatsApp: "https://chat.whatsapp.com/HPqADdmWNigGoGLBU06pu4" };
+const TRIBUNAIS = ["STF", "STJ", "TJRS", "TJSC", "TRF4", "Legislação"];
+const TEMAS = ["Provas e buscas", "Prisões e cautelares", "Execução penal", "Nulidades", "Dosimetria e pena", "Recursos e HC", "Júri", "Crimes em espécie", "Alterações legislativas"];
+const IMP = { favoravel: "Favorável à defesa", desfavoravel: "Desfavorável à defesa", neutro: "Informativo" };
+const state = { tribunal: "", tema: "", impacto: "", q: "" };
+const abertos = new Set();
+let POSTS = [];
+
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const norm = s => String(s ?? "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+const fmtDia = iso => { const s = new Date(iso + "T12:00:00").toLocaleDateString("pt-BR", { weekday: "long", day: "numeric", month: "long", year: "numeric" }); return s.charAt(0).toUpperCase() + s.slice(1); };
+const curto = iso => new Date(iso + "T12:00:00").toLocaleDateString("pt-BR", { day: "numeric", month: "short" });
+function toast(m) { const t = $("#toast"); t.textContent = m; t.classList.add("on"); clearTimeout(toast.t); toast.t = setTimeout(() => t.classList.remove("on"), 1800); }
+
+function passa(p, ign) {
+  const q = norm(state.q);
+  return (ign === "tribunal" || !state.tribunal || p.tribunal === state.tribunal) &&
+    (ign === "tema" || !state.tema || (p.temas || []).includes(state.tema)) &&
+    (ign === "impacto" || !state.impacto || p.impacto === state.impacto) &&
+    (!q || norm([p.titulo, p.assunto, p.processo, p.texto, p.orgao, p.tribunal, (p.tags || []).join(" "), (p.temas || []).join(" ")].join(" ")).includes(q));
+}
+function contar(chave, v, base) { return base.filter(p => chave === "tema" ? (p.temas || []).includes(v) : p[chave] === v).length; }
+
+function filtros() {
+  let base = POSTS.filter(p => passa(p, "tribunal"));
+  $("#fTrib").innerHTML = [["", "Todos", base.length], ...TRIBUNAIS.map(t => [t, t, contar("tribunal", t, base)])]
+    .map(([v, t, n]) => `<button type="button" data-k="tribunal" data-v="${esc(v)}" aria-pressed="${state.tribunal === v}">${esc(t)}<span class="n">${n}</span></button>`).join("");
+  base = POSTS.filter(p => passa(p, "impacto"));
+  $("#fImp").innerHTML = [["", "Todas", ""], ["favoravel", "Favoráveis", "fav"], ["desfavoravel", "Desfavoráveis", "des"]]
+    .map(([v, t, c]) => `<button type="button" class="${c}" data-k="impacto" data-v="${v}" aria-pressed="${state.impacto === v}">${t}<span class="n">${v ? contar("impacto", v, base) : base.length}</span></button>`).join("");
+  base = POSTS.filter(p => passa(p, "tema"));
+  $("#fTema").innerHTML = [["", "Todos os temas", base.length], ...TEMAS.map(t => [t, t, contar("tema", t, base)])]
+    .map(([v, t, n]) => `<button type="button" class="chip" data-k="tema" data-v="${esc(v)}" aria-pressed="${state.tema === v}">${esc(t)}<span class="n">${n}</span></button>`).join("");
+}
+
+function textoZap(p) {
+  const corpo = p.texto ? `\n\n${p.rotuloTexto}:\n${p.texto}` : "";
+  return `*${p.titulo}*\n${IMP[p.impacto] || ""} · ${p.tribunal} – ${p.orgao}\n${p.processo}${corpo}\n\nLeia em: ${p.fonteUrl}`;
+}
+
+function card(p) {
+  const imp = p.impacto in IMP ? p.impacto : "neutro";
+  const longo = (p.texto || "").length + (p.assunto || "").length > 420;
+  const aberto = abertos.has(p.id);
+  const corpo = (p.ementaPendente || !p.texto)
+    ? `<p class="pend">A ementa ainda não foi publicada nas bases públicas. Esta publicação será atualizada quando o texto oficial estiver disponível; até lá, consulte a fonte acima.</p>`
+    : `<div class="body">${p.assunto && p.assunto !== p.texto ? `<p class="assunto">${esc(p.assunto)}</p>` : ""}<p class="txt">${esc(p.texto)}</p></div>${longo ? `<button class="more" type="button" data-more="${esc(p.id)}" aria-expanded="${aberto}">${aberto ? "Recolher" : "Ler ementa completa"}</button>` : ""}`;
+  const capa = p.imagem ? `<div class="cover"><img src="${esc(p.imagem)}" alt="${esc(p.imagemAlt || "")}" width="600" height="338" loading="lazy"><small>Imagem ilustrativa · IA</small></div>` : "";
+  return `<article class="post" id="p-${esc(p.id)}">${capa}
+    <div class="meta"><span class="court">${esc(p.tribunal)}</span><span>${esc(p.orgao)}</span><span class="dotsep"></span><span>${esc(p.area)}</span><span class="badge ${imp}">${IMP[imp]}</span></div>
+    <h3><a href="#p-${esc(p.id)}">${esc(p.titulo)}</a></h3>
+    <p class="processo">${esc(p.processo)}</p>
+    <p class="leia"><b>Leia em:</b> <a href="${esc(p.fonteUrl)}" target="_blank" rel="noopener">${esc(p.fonteNome)} ↗</a></p>
+    <div class="ementa ${longo && !aberto ? "clamp" : ""}"><div class="lbl">${esc(p.rotuloTexto || "Ementa")}</div>${corpo}</div>
+    <div class="foot">
+      <button class="act" type="button" data-copy="${esc(p.id)}">Copiar ementa</button>
+      <a class="act zap" href="https://api.whatsapp.com/send?text=${encodeURIComponent(textoZap(p))}" target="_blank" rel="noopener">WhatsApp</a>
+      <button class="act" type="button" data-link="${esc(p.id)}">Copiar link</button>
+      ${(p.temas || []).map(t => `<button class="tema" type="button" data-tema="${esc(t)}">#${esc(t)}</button>`).join("")}
+    </div>
+  </article>`;
+}
+
+function render() {
+  filtros();
+  const lista = POSTS.filter(p => passa(p));
+  const ativos = [state.tribunal, state.tema, state.impacto && IMP[state.impacto], state.q && `“${state.q}”`].filter(Boolean);
+  $("#res").innerHTML = ativos.length
+    ? `${lista.length} ${lista.length === 1 ? "decisão" : "decisões"} · ${ativos.map(esc).join(" · ")} <button type="button" id="limpar">Limpar</button>`
+    : `${lista.length} decisões, das mais recentes para as mais antigas`;
+  const feed = $("#feed");
+  if (!lista.length) {
+    const t = state.tribunal, semNada = t && !POSTS.some(p => p.tribunal === t);
+    feed.innerHTML = `<div class="empty"><b>${semNada ? `Ainda não há publicações de ${esc(t)}` : "Nada encontrado com esses filtros"}</b>${semNada ? "A coleta automática roda três vezes por dia nas fontes oficiais e publica aqui assim que encontrar." : "Tente outro tema ou limpe a busca."}</div>`;
+    return;
+  }
+  const dias = {};
+  lista.forEach(p => (dias[p.data] ||= []).push(p));
+  feed.innerHTML = Object.keys(dias).sort().reverse().map(d => `<section class="day"><h2>${esc(fmtDia(d))}</h2><div class="posts">${dias[d].map(card).join("")}</div></section>`).join("");
+}
+
+function destaques() {
+  const fav = POSTS.filter(p => p.impacto === "favoravel").slice(0, 6);
+  $("#rail").innerHTML = fav.map(p => `<a class="hcard" href="#p-${esc(p.id)}" data-goto="${esc(p.id)}">
+    ${p.imagem ? `<div class="hc-img"><img src="${esc(p.imagem)}" alt="${esc(p.imagemAlt || "")}" width="600" height="338" loading="lazy"></div>` : ""}
+    <div class="hc-body"><div class="meta"><span class="court">${esc(p.tribunal)}</span><span>${esc(curto(p.data))}</span></div>
+    <h3>${esc(p.titulo)}</h3><span class="go">Ler decisão ›</span></div></a>`).join("");
+}
+
+function destacar() {
+  document.querySelectorAll(".post.highlight").forEach(e => e.classList.remove("highlight"));
+  const h = location.hash.slice(1);
+  if (h.startsWith("p-")) { const el = document.getElementById(h); if (el) { el.classList.add("highlight"); el.scrollIntoView({ block: "start" }); } }
+}
+async function copiar(txt, ok) { try { await navigator.clipboard.writeText(txt); toast(ok); } catch (e) { toast("Não foi possível copiar automaticamente"); } }
+
+document.addEventListener("click", e => {
+  const f = e.target.closest("[data-k]");
+  if (f) { const k = f.dataset.k; state[k] = state[k] === f.dataset.v ? "" : f.dataset.v; render(); return; }
+  const g = e.target.closest("[data-goto]");
+  if (g) { if (!passa(POSTS.find(p => p.id === g.dataset.goto))) { Object.assign(state, { tribunal: "", tema: "", impacto: "", q: "" }); $("#q").value = ""; render(); } return; }
+  const tm = e.target.closest("[data-tema]");
+  if (tm) { state.tema = tm.dataset.tema; render(); $("#decisoes").scrollIntoView({ block: "start" }); return; }
+  if (e.target.id === "limpar") { Object.assign(state, { tribunal: "", tema: "", impacto: "", q: "" }); $("#q").value = ""; render(); return; }
+  const m = e.target.closest("[data-more]");
+  if (m) { const id = m.dataset.more; abertos.has(id) ? abertos.delete(id) : abertos.add(id); render(); return; }
+  const c = e.target.closest("[data-copy]");
+  if (c) { const p = POSTS.find(x => x.id === c.dataset.copy); if (p) copiar(`${p.titulo}\n${p.processo}\n\n${p.assunto && p.assunto !== p.texto ? p.assunto + "\n" : ""}${p.texto || ""}\n\nFonte: ${p.fonteUrl}`, "Ementa copiada"); return; }
+  const l = e.target.closest("[data-link]");
+  if (l) copiar(location.href.split("#")[0] + "#p-" + l.dataset.link, "Link copiado");
+});
+let tq; $("#q").addEventListener("input", e => { clearTimeout(tq); tq = setTimeout(() => { state.q = e.target.value.trim(); render(); }, 150); });
+document.addEventListener("keydown", e => { if (e.key === "/" && document.activeElement.tagName !== "INPUT") { e.preventDefault(); $("#q").focus(); } });
+window.addEventListener("hashchange", destacar);
+
+$("#ano").textContent = new Date().getFullYear();
+(() => { const fab = $("#fab"), g = $("#grupo"); if (fab && g && "IntersectionObserver" in window) new IntersectionObserver(es => es.forEach(e => fab.hidden = e.isIntersecting), { threshold: 0.3 }).observe(g); })();
+if (SITE.grupoWhatsApp) { const b = $("#grupoBtn"); b.href = SITE.grupoWhatsApp; b.textContent = "Entrar no grupo"; b.removeAttribute("aria-disabled"); b.target = "_blank"; b.rel = "noopener"; }
+
+fetch("posts.json", { cache: "no-store" })
+  .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+  .then(d => {
+    POSTS = (d.posts || []).slice().sort((a, b) => b.data.localeCompare(a.data));
+    $("#sT").textContent = POSTS.length;
+    $("#sF").textContent = POSTS.filter(p => p.impacto === "favoravel").length;
+    $("#sD").textContent = POSTS.filter(p => p.impacto === "desfavoravel").length;
+    if (d.atualizadoEm) { const x = new Date(d.atualizadoEm); $("#upd").textContent = `Atualizado em ${x.toLocaleDateString("pt-BR")} às ${x.toLocaleTimeString("pt-BR", { hour: "2-digit", minute: "2-digit" })}`; }
+    destaques(); render(); destacar();
+  })
+  .catch(() => { $("#feed").innerHTML = `<div class="empty"><b>Não foi possível carregar as decisões agora</b>Recarregue a página em instantes.</div>`; });
+</script>
+</body>
+</html>

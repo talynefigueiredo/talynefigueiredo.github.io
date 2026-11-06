@@ -1,0 +1,337 @@
+{
+ "atualizadoEm": "2026-11-06T14:43:30-03:00",
+ "posts": [
+  {
+   "id": "stj-inf908-importunacao-sem-contato-fisico",
+   "data": "2026-11-03",
+   "tribunal": "STJ",
+   "orgao": "Sexta Turma",
+   "area": "Direito Penal",
+   "impacto": "desfavoravel",
+   "titulo": "STJ: importunação sexual pode existir sem contato físico, e trancamento da ação é negado",
+   "assunto": "Importunação sexual. Ausência de contato físico. Verbalizações de cunho sexual. Possibilidade de configuração. Necessidade de exame do contexto fático. Trancamento da ação penal. Inviabilidade.",
+   "processo": "Processo em segredo de justiça, Rel. Ministra Nilsoni de Freitas, Sexta Turma, por unanimidade, julgado em 8/10/2026 e DJEN 13/10/2026.",
+   "fonteNome": "Informativo de Jurisprudência do STJ n. 908",
+   "fonteUrl": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisarumaedicao&livre=%270908%27.cod.",
+   "rotuloTexto": "Destaque oficial",
+   "texto": "1. A ausência de contato físico não exclui, de plano, a possibilidade de configuração do crime de importunação sexual, devendo a avaliação ocorrer à luz do conjunto probatório e das circunstâncias do caso concreto.\n2. O conceito de ato libidinoso não é taxativo, podendo abranger condutas como verbalizações de cunho sexual, conforme o contexto e a intenção de satisfazer a lascívia.",
+   "tags": [
+    "importunação sexual",
+    "art. 215-A CP",
+    "trancamento"
+   ],
+   "temas": [
+    "Crimes em espécie"
+   ],
+   "imagem": "img/stj-inf908-importunacao-sem-contato-fisico.jpg",
+   "imagemAlt": "Silhueta de mulher caminhando numa rua à noite"
+  },
+  {
+   "id": "stj-noticia-absolvicao-restabelecida-provas-defesa",
+   "data": "2026-10-28",
+   "tribunal": "STJ",
+   "orgao": "Sexta Turma",
+   "area": "Processo Penal",
+   "impacto": "favoravel",
+   "titulo": "STJ restabelece absolvição: tribunal que condena tem de enfrentar as provas favoráveis à defesa",
+   "assunto": "Estupro de vulnerável. Condenação em segundo grau sem análise das provas técnicas oficiais favoráveis à defesa. Dúvida razoável. Restabelecimento da sentença absolutória.",
+   "processo": "Rel. Ministro Rogerio Schietti Cruz, Sexta Turma. Número do processo não divulgado na notícia oficial.",
+   "fonteNome": "Notícia oficial do STJ (28/10/2026)",
+   "fonteUrl": "https://www.stj.jus.br/sites/portalp/paginas/comunicacao/noticias/2026/28102026-falta-de-analise-de-provas-favoraveis-a-defesa-leva-stj-a-restabelecer-a-absolvicao-de-reu-condenado-por-estupro-.aspx",
+   "rotuloTexto": "Ementa",
+   "texto": "",
+   "ementaPendente": true,
+   "tags": [
+    "dúvida razoável",
+    "valoração da prova",
+    "absolvição"
+   ],
+   "temas": [
+    "Provas e buscas"
+   ],
+   "imagem": "img/stj-noticia-absolvicao-restabelecida-provas-defesa.jpg",
+   "imagemAlt": "Balança da justiça sobre mesa com documentos"
+  },
+  {
+   "id": "stj-inf907-ingresso-domiciliar-sem-urgencia",
+   "data": "2026-10-27",
+   "tribunal": "STJ",
+   "orgao": "Sexta Turma",
+   "area": "Processo Penal",
+   "impacto": "favoravel",
+   "titulo": "STJ: entrar em casa sem mandado e sem urgência é ilegal, mesmo em investigação de tráfico",
+   "assunto": "Tráfico de drogas. Ingresso domiciliar sem mandado. Situação que não demanda urgente intervenção policial. Ausência de fundadas razões. Ilegalidade.",
+   "processo": "AgRg no HC 761.669-RS, Rel. Ministro Rogerio Schietti, Sexta Turma, por maioria, julgado em 20/5/2026, DJEN 26/5/2026.",
+   "fonteNome": "Informativo de Jurisprudência do STJ n. 907",
+   "fonteUrl": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=%40CNOT%3D022705",
+   "rotuloTexto": "Trechos do inteiro teor (Informativo)",
+   "texto": "No contexto em análise, a dinâmica fática revela a ausência de fundadas razões para o ingresso domiciliar, porquanto não foram identificadas práticas suspeitas no imóvel monitorado.\nAinda, o tempo decorrido entre o comparecimento da acusada no imóvel e a invasão do local revela a inexistência de urgência que inviabilizasse o pedido prévio de mandado judicial, uma vez que não havia nenhum indicativo concreto de risco iminente de ocultação ou desaparecimento das drogas - cuja existência nem sequer havia sido confirmada.",
+   "tags": [
+    "inviolabilidade de domicílio",
+    "fundadas razões",
+    "tráfico",
+    "RS"
+   ],
+   "temas": [
+    "Provas e buscas"
+   ],
+   "imagem": "img/stj-inf907-ingresso-domiciliar-sem-urgencia.jpg",
+   "imagemAlt": "Porta de casa entreaberta ao entardecer"
+  },
+  {
+   "id": "stf-hc-270735-indulto-roubo-arma-hediondo",
+   "data": "2026-10-27",
+   "tribunal": "STF",
+   "orgao": "Primeira Turma",
+   "area": "Execução Penal",
+   "impacto": "desfavoravel",
+   "temas": [
+    "Execução penal"
+   ],
+   "titulo": "STF: 1ª Turma nega indulto a condenado por roubo com arma de fogo e manda aplicar a lei vigente na data do decreto",
+   "assunto": "",
+   "processo": "Habeas Corpus (HC) 270735, Rel. Ministra Cármen Lúcia, Primeira Turma, por maioria (vencido o Ministro Cristiano Zanin). Julgado na terça-feira (27/10/2026), conforme notícia oficial.",
+   "fonteNome": "Notícia oficial do STF (27/10/2026)",
+   "fonteUrl": "https://noticias.stf.jus.br/postsnoticias/1a-turma-mantem-decisao-que-negou-reducao-de-pena-a-condenado-por-roubo-com-arma-de-fogo/",
+   "rotuloTexto": "Ementa",
+   "texto": "",
+   "ementaPendente": true,
+   "tags": [
+    "indulto",
+    "Decreto 11.846/2023",
+    "crime hediondo",
+    "roubo"
+   ],
+   "imagem": "img/stf-hc-270735-indulto-roubo-arma-hediondo.jpg",
+   "imagemAlt": "Caneta-tinteiro sobre decreto com selo"
+  },
+  {
+   "id": "trf4-bol275-busca-suspeita-generica-descaminho",
+   "data": "2026-10-15",
+   "tribunal": "TRF4",
+   "orgao": "7ª Turma",
+   "area": "Processo Penal",
+   "impacto": "favoravel",
+   "titulo": "TRF4: provas obtidas a partir de suspeita genérica são ilícitas",
+   "assunto": "Descaminho. Busca pessoal e veicular. Fundada suspeita baseada em elementos objetivos e concretos anteriores à diligência.",
+   "processo": "Apelação Criminal nº 5007215-24.2023.4.04.7004, Rel. Desembargador Federal Luiz Carlos Canalli, 7ª Turma.",
+   "fonteNome": "Boletim Jurídico do TRF4 n. 275 (outubro/2026)",
+   "fonteUrl": "https://www.trf4.jus.br/trf4/boletimjuridico/arquivos/bol275.pdf",
+   "rotuloTexto": "Destaque do Boletim Jurídico",
+   "texto": "São consideradas ilícitas as provas obtidas a partir de suspeita genérica, sem base em elementos objetivos e concretos.",
+   "tags": [
+    "busca veicular",
+    "fundada suspeita",
+    "descaminho"
+   ],
+   "temas": [
+    "Provas e buscas"
+   ],
+   "imagem": "img/trf4-bol275-busca-suspeita-generica-descaminho.jpg",
+   "imagemAlt": "Carro parado em rodovia ao entardecer"
+  },
+  {
+   "id": "stj-inf905-municao-unica-insignificancia",
+   "data": "2026-10-13",
+   "tribunal": "STJ",
+   "orgao": "Sexta Turma",
+   "area": "Direito Penal",
+   "impacto": "favoravel",
+   "titulo": "STJ aplica insignificância a um único cartucho sem arma, mesmo em contexto de tráfico",
+   "assunto": "Porte ilegal de munição de uso permitido. Apreensão de um único cartucho calibre 38 desacompanhado de arma de fogo. Contexto de tráfico de drogas. Ausência de demonstração de vínculo funcional entre a munição e a atividade ilícita. Princípio da insignificância. Incidência.",
+   "processo": "AgRg no AREsp 3.196.608-MG, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, por unanimidade, julgado em 6/10/2026.",
+   "fonteNome": "Informativo de Jurisprudência do STJ n. 905",
+   "fonteUrl": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisarumaedicao&livre=%270905%27.cod.",
+   "rotuloTexto": "Destaque oficial",
+   "texto": "A apreensão de um único cartucho desacompanhado de arma de fogo, ocorrida no contexto de tráfico de drogas, não afasta automaticamente a insignificância, exigindo-se a demonstração concreta de vínculo funcional entre a munição e a prática criminosa.",
+   "tags": [
+    "insignificância",
+    "Estatuto do Desarmamento",
+    "munição"
+   ],
+   "temas": [
+    "Crimes em espécie"
+   ],
+   "imagem": "img/stj-inf905-municao-unica-insignificancia.jpg",
+   "imagemAlt": "Um único cartucho sobre mármore"
+  },
+  {
+   "id": "stj-inf905-indulto-competencia-juizo-execucao",
+   "data": "2026-10-13",
+   "tribunal": "STJ",
+   "orgao": "Quinta Turma",
+   "area": "Execução Penal",
+   "impacto": "desfavoravel",
+   "titulo": "STJ: tribunal não pode conceder indulto sem o juiz da execução analisar requisitos subjetivos, mesmo com demora",
+   "assunto": "Indulto. Exame dos requisitos objetivos e subjetivos. Competência originária do Juízo da Execução Penal. Tribunal de origem. Deferimento sem prévia manifestação do juízo competente acerca dos requisitos subjetivos. Usurpação de competência.",
+   "processo": "AgRg no REsp 2.235.492-PR, Rel. Ministro Messod Azulay Neto, Quinta Turma, por unanimidade, julgado em 2/9/2026, DJEN 9/9/2026.",
+   "fonteNome": "Informativo de Jurisprudência do STJ n. 905",
+   "fonteUrl": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisarumaedicao&livre=%270905%27.cod.",
+   "rotuloTexto": "Destaque oficial",
+   "texto": "Compete ao Juízo da Execução Penal, de forma exclusiva e originária, examinar o preenchimento dos requisitos objetivos e subjetivos para concessão de indulto, em razão de sua proximidade com a rotina do cumprimento da pena e do histórico atualizado do recluso, não cabendo ao Tribunal de origem substituir-se ao Juízo da Execução na valoração dos requisitos subjetivos, ainda que haja demora na prestação jurisdicional.",
+   "tags": [
+    "indulto",
+    "LEP art. 66",
+    "competência"
+   ],
+   "temas": [
+    "Execução penal"
+   ],
+   "imagem": "img/stj-inf905-indulto-competencia-juizo-execucao.jpg",
+   "imagemAlt": "Pilha de autos processuais com fitas"
+  },
+  {
+   "id": "stf-agr-hc-276977-rs-sucedaneo-revisao",
+   "data": "2026-10-13",
+   "tribunal": "STF",
+   "orgao": "Primeira Turma",
+   "area": "Processo Penal",
+   "impacto": "desfavoravel",
+   "titulo": "STF: habeas corpus não substitui revisão criminal; 1ª Turma mantém negativa em caso do RS",
+   "assunto": "Habeas corpus impetrado mais de oito anos após o trânsito em julgado. Utilização como sucedâneo de revisão criminal. Inviabilidade. Agravo regimental desprovido.",
+   "processo": "AG.REG. no Habeas Corpus 276.977 – Rio Grande do Sul, Rel. Ministra Cármen Lúcia, Primeira Turma, Sessão Virtual de 2.10.2026 a 9.10.2026.",
+   "fonteNome": "Acórdão publicado pelo STF (inteiro teor em PDF)",
+   "fonteUrl": "https://digital.stf.jus.br/decisoes-publicacoes/api/public/publicacoes/peca?publicacao=1031760",
+   "rotuloTexto": "Decisão (extrato de ata)",
+   "texto": "A Turma, por unanimidade, negou provimento ao agravo regimental, nos termos do voto da Relatora, Ministra Cármen Lúcia. Primeira Turma, Sessão Virtual de 2.10.2026 a 9.10.2026.",
+   "tags": [
+    "habeas corpus",
+    "revisão criminal",
+    "RS"
+   ],
+   "temas": [
+    "Recursos e HC"
+   ],
+   "imagem": "img/stf-agr-hc-276977-rs-sucedaneo-revisao.jpg",
+   "imagemAlt": "Colunas modernistas ao entardecer"
+  },
+  {
+   "id": "stj-inf905-sonegacao-previdenciaria-reforma-trabalhista",
+   "data": "2026-10-13",
+   "tribunal": "STJ",
+   "orgao": "Sexta Turma",
+   "area": "Direito Penal",
+   "impacto": "desfavoravel",
+   "titulo": "STJ: Reforma Trabalhista não gerou abolitio criminis na sonegação previdenciária",
+   "assunto": "Sonegação de contribuições previdenciárias. Art. 337-A do CP. Norma penal em branco. Alegada repercussão da Reforma Trabalhista (Lei n. 13.467/2017) sobre créditos tributários de períodos anteriores à sua vigência. Abolitio criminis. Não ocorrência.",
+   "processo": "AgRg no RHC 191.077-BA, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, por unanimidade, julgado em 1/9/2026, DJEN 9/9/2026.",
+   "fonteNome": "Informativo de Jurisprudência do STJ n. 905",
+   "fonteUrl": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisarumaedicao&livre=%270905%27.cod.",
+   "rotuloTexto": "Enunciado oficial",
+   "texto": "Sonegação de contribuições previdenciárias. 337-A do CP. Norma penal em branco. Alegada repercussão da Reforma Trabalhista (Lei n. 13.467/2017) sobre créditos tributários de períodos anteriores à sua vigência. Abolitio criminis. Não ocorrência.",
+   "tags": [
+    "crimes tributários",
+    "abolitio criminis",
+    "retroatividade"
+   ],
+   "temas": [
+    "Crimes em espécie"
+   ],
+   "imagem": "img/stj-inf905-sonegacao-previdenciaria-reforma-trabalhista.jpg",
+   "imagemAlt": "Carteira de trabalho, calculadora e guias"
+  },
+  {
+   "id": "stj-noticia-terrorismo-motivacao-economica",
+   "data": "2026-10-13",
+   "tribunal": "STJ",
+   "orgao": "Sexta Turma",
+   "area": "Direito Penal",
+   "impacto": "desfavoravel",
+   "titulo": "STJ: motivação financeira não afasta o crime de atos preparatórios de terrorismo",
+   "assunto": "Lei Antiterrorismo. Atos preparatórios. Motivação econômica concorrente. Reforma de acórdão absolutório do TRF6.",
+   "processo": "Sexta Turma. Número do processo não divulgado na notícia oficial.",
+   "fonteNome": "Notícia oficial do STJ (13/10/2026)",
+   "fonteUrl": "https://www.stj.jus.br/sites/portalp/paginas/comunicacao/noticias/2026/13102026-stj-noticias-destaca-decisao-sobre-motivacao-economica-em-atos-preparatorios-de-terrorismo-.aspx",
+   "rotuloTexto": "Ementa",
+   "texto": "",
+   "ementaPendente": true,
+   "tags": [
+    "Lei 13.260/2016",
+    "terrorismo"
+   ],
+   "temas": [
+    "Crimes em espécie"
+   ],
+   "imagem": "img/stj-noticia-terrorismo-motivacao-economica.jpg",
+   "imagemAlt": "Mapa urbano com alfinetes sobre mesa"
+  },
+  {
+   "id": "stj-inf904-domiciliar-mae-trafico-residencia",
+   "data": "2026-10-06",
+   "tribunal": "STJ",
+   "orgao": "Sexta Turma",
+   "area": "Processo Penal",
+   "impacto": "desfavoravel",
+   "titulo": "STJ nega prisão domiciliar a mãe quando há indícios de tráfico na própria residência",
+   "assunto": "Prisão preventiva. Mãe de crianças menores. Organização criminosa. Tráfico praticado na residência. Substituição por prisão domiciliar. Inviabilidade.",
+   "processo": "HC 1.095.688-RJ, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, por unanimidade, julgado em 9/9/2026, DJEN 16/9/2026.",
+   "fonteNome": "Informativo de Jurisprudência do STJ n. 904",
+   "fonteUrl": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisarumaedicao&livre=%270904%27.cod.",
+   "rotuloTexto": "Destaque oficial",
+   "texto": "É inviável a substituição da prisão preventiva por prisão domiciliar quando houver indícios de que a ré, mãe de crianças menores, atua em organização criminosa e utiliza a residência para traficar drogas.",
+   "tags": [
+    "prisão domiciliar",
+    "CPP art. 318",
+    "HC coletivo"
+   ],
+   "temas": [
+    "Prisões e cautelares"
+   ],
+   "imagem": "img/stj-inf904-domiciliar-mae-trafico-residencia.jpg",
+   "imagemAlt": "Sala com brinquedo infantil no sofá"
+  },
+  {
+   "id": "stj-inf901-blitz-transito-busca-veicular",
+   "data": "2026-09-15",
+   "tribunal": "STJ",
+   "orgao": "Quinta Turma",
+   "area": "Processo Penal",
+   "impacto": "favoravel",
+   "titulo": "STJ: blitz de trânsito não autoriza revista no carro; provas ilícitas levam à absolvição",
+   "assunto": "Abordagem administrativa de trânsito. Película automotiva irregular (vidros escuros). Busca pessoal/veicular sem fundadas suspeitas. Provas ilícitas. Ausência de provas autônomas. Absolvição.",
+   "processo": "AgRg no AREsp 3.203.005-MT, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, por unanimidade, julgado em 26/8/2026.",
+   "fonteNome": "Informativo de Jurisprudência do STJ n. 901",
+   "fonteUrl": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=%40CNOT%3D022618",
+   "rotuloTexto": "Destaque oficial",
+   "texto": "1. A abordagem administrativa de trânsito não autoriza, por si só, busca pessoal ou veicular, que exige fundada suspeita objetiva, concreta e anterior, referível à posse de corpo de delito.",
+   "tags": [
+    "busca veicular",
+    "fundada suspeita",
+    "CPP art. 244",
+    "prova ilícita"
+   ],
+   "temas": [
+    "Provas e buscas"
+   ],
+   "imagem": "img/stj-inf901-blitz-transito-busca-veicular.jpg",
+   "imagemAlt": "Cones de trânsito numa avenida à noite"
+  },
+  {
+   "id": "tjsc-aviso-de-miranda-busca-veicular",
+   "data": "2026-05-08",
+   "tribunal": "TJSC",
+   "orgao": "5ª Câmara Criminal",
+   "area": "Processo Penal",
+   "impacto": "desfavoravel",
+   "titulo": "TJSC: falta do “Aviso de Miranda” na abordagem não anula a busca veicular",
+   "assunto": "Tráfico de drogas e desobediência. Abordagem policial e busca veicular. Ausência de advertência sobre o direito ao silêncio no momento da abordagem. Nulidade afastada.",
+   "processo": "Autos n. 5002289-90.2025.8.24.0520, 5ª Câmara Criminal do TJSC.",
+   "fonteNome": "Notícia oficial do TJSC (08/05/2026)",
+   "fonteUrl": "https://www.tjsc.jus.br/web/imprensa/-/tjsc-valida-abordagem-policial-e-busca-veicular-mesmo-sem-aviso-de-miranda-",
+   "rotuloTexto": "Ementa",
+   "texto": "",
+   "ementaPendente": true,
+   "tags": [
+    "direito ao silêncio",
+    "busca veicular",
+    "nulidade"
+   ],
+   "temas": [
+    "Provas e buscas",
+    "Nulidades"
+   ],
+   "imagem": "img/tjsc-aviso-de-miranda-busca-veicular.jpg",
+   "imagemAlt": "Para-brisa com chuva e luzes desfocadas"
+  }
+ ]
+}
