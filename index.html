@@ -400,9 +400,10 @@ function filtros() {
     .map(([v, t, n]) => `<button type="button" class="chip" data-k="tema" data-v="${esc(v)}" aria-pressed="${state.tema === v}">${esc(t)}<span class="n">${n}</span></button>`).join("");
 }
 
+const shareUrl = id => "https://talynefigueiredo.github.io/p/" + id + ".html";
 function textoZap(p) {
   const corpo = p.texto ? `\n\n${p.rotuloTexto}:\n${p.texto}` : "";
-  return `*${p.titulo}*\n${IMP[p.impacto] || ""} · ${p.tribunal} – ${p.orgao}\n${p.processo}${corpo}\n\nLeia em: ${p.fonteUrl}`;
+  return `*${p.titulo}*\n${shareUrl(p.id)}\n\n${IMP[p.impacto] || ""} · ${p.tribunal} – ${p.orgao}\n${p.processo}${corpo}\n\nLeia em: ${p.fonteUrl}`;
 }
 
 function card(p) {
@@ -454,6 +455,7 @@ function destaques() {
     <h3>${esc(p.titulo)}</h3><span class="go">Ler decisão ›</span></div></a>`).join("");
 }
 
+window.addEventListener("load", () => setTimeout(() => destacar(), 150));
 function destacar() {
   document.querySelectorAll(".post.highlight").forEach(e => e.classList.remove("highlight"));
   const h = location.hash.slice(1);
@@ -474,7 +476,7 @@ document.addEventListener("click", e => {
   const c = e.target.closest("[data-copy]");
   if (c) { const p = POSTS.find(x => x.id === c.dataset.copy); if (p) copiar(`${p.titulo}\n${p.processo}\n\n${p.assunto && p.assunto !== p.texto ? p.assunto + "\n" : ""}${p.texto || ""}\n\nFonte: ${p.fonteUrl}`, "Ementa copiada"); return; }
   const l = e.target.closest("[data-link]");
-  if (l) copiar(location.href.split("#")[0] + "#p-" + l.dataset.link, "Link copiado");
+  if (l) copiar(shareUrl(l.dataset.link), "Link copiado");
 });
 let tq; $("#q").addEventListener("input", e => { clearTimeout(tq); tq = setTimeout(() => { state.q = e.target.value.trim(); render(); }, 150); });
 document.addEventListener("keydown", e => { if (e.key === "/" && document.activeElement.tagName !== "INPUT") { e.preventDefault(); $("#q").focus(); } });
