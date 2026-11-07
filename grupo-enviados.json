@@ -1,18 +1,22 @@
 {
- "atualizadoEm": "2026-11-06T16:35:00-03:00",
+ "atualizadoEm": "2026-11-07T10:33:00-03:00",
  "enviados": [
+  "stf-adi-6251-necrims-conciliacao",
+  "stf-agr-hc-276977-rs-sucedaneo-revisao",
+  "stf-hc-270735-indulto-roubo-arma-hediondo",
+  "stj-inf901-blitz-transito-busca-veicular",
+  "stj-inf904-domiciliar-mae-trafico-residencia",
+  "stj-inf905-indulto-competencia-juizo-execucao",
+  "stj-inf905-municao-unica-insignificancia",
+  "stj-inf905-sonegacao-previdenciaria-reforma-trabalhista",
+  "stj-inf907-bets-exterior-justica-federal",
+  "stj-inf907-estupro-vulneravel-adulto-sem-resistencia",
+  "stj-inf907-ingresso-domiciliar-sem-urgencia",
+  "stj-inf907-medidor-energia-estelionato",
   "stj-inf908-importunacao-sem-contato-fisico",
   "stj-noticia-absolvicao-restabelecida-provas-defesa",
-  "stj-inf907-ingresso-domiciliar-sem-urgencia",
-  "stf-hc-270735-indulto-roubo-arma-hediondo",
-  "trf4-bol275-busca-suspeita-generica-descaminho",
-  "stj-inf905-municao-unica-insignificancia",
-  "stj-inf905-indulto-competencia-juizo-execucao",
-  "stf-agr-hc-276977-rs-sucedaneo-revisao",
-  "stj-inf905-sonegacao-previdenciaria-reforma-trabalhista",
   "stj-noticia-terrorismo-motivacao-economica",
-  "stj-inf904-domiciliar-mae-trafico-residencia",
-  "stj-inf901-blitz-transito-busca-veicular",
-  "tjsc-aviso-de-miranda-busca-veicular"
+  "tjsc-aviso-de-miranda-busca-veicular",
+  "trf4-bol275-busca-suspeita-generica-descaminho"
  ]
 }
