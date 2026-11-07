@@ -1,0 +1,14 @@
+name: Definir foto do canal do Telegram
+on: workflow_dispatch
+permissions:
+  contents: read
+jobs:
+  foto:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Enviar foto do canal
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ vars.TELEGRAM_CHAT_ID }}
+        run: python3 scripts/telegram_foto.py
