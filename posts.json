@@ -1,6 +1,34 @@
 {
- "atualizadoEm": "2026-11-07T15:20:00-03:00",
+ "atualizadoEm": "2026-11-07T20:55:00-03:00",
  "posts": [
+  {
+   "id": "stf-adi-2039-mp-rs-investigacao-limites",
+   "data": "2026-11-05",
+   "tribunal": "STF",
+   "orgao": "Plenário",
+   "area": "Processo Penal",
+   "impacto": "favoravel",
+   "temas": [
+    "Provas e buscas",
+    "Nulidades"
+   ],
+   "titulo": "STF: Ministério Público pode investigar, mas sem procedimentos sumários e sem o procurador-geral assumir inquéritos policiais",
+   "assunto": "",
+   "processo": "ADI 2039, Rel. Ministra Rosa Weber (aposentada), Plenário, por maioria, julgamento concluído em 5/11/2026, conforme notícia oficial do STF.",
+   "fonteNome": "Notícias do STF",
+   "fonteUrl": "https://noticias.stf.jus.br/postsnoticias/stf-invalida-normas-sobre-organizacao-e-poderes-de-investigacao-do-ministerio-publico-do-rs/",
+   "rotuloTexto": "Ementa",
+   "texto": "",
+   "ementaPendente": true,
+   "tags": [
+    "investigação criminal",
+    "Ministério Público",
+    "inquérito policial",
+    "RS"
+   ],
+   "imagem": "img/stf-adi-2039-mp-rs-investigacao-limites.jpg",
+   "imagemAlt": "Pastas de inquérito amarradas com fita sobre mesa de madeira"
+  },
   {
    "id": "stf-adi-6251-necrims-conciliacao",
    "data": "2026-11-04",
