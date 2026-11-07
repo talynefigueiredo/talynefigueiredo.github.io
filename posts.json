@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-06T20:45:00-03:00",
+ "atualizadoEm": "2026-11-07T10:25:00-03:00",
  "posts": [
   {
    "id": "stf-adi-6251-necrims-conciliacao",
@@ -131,6 +131,83 @@
    ],
    "imagem": "img/stf-hc-270735-indulto-roubo-arma-hediondo.jpg",
    "imagemAlt": "Caneta-tinteiro sobre decreto com selo"
+  },
+  {
+   "id": "stj-inf907-medidor-energia-estelionato",
+   "data": "2026-10-27",
+   "tribunal": "STJ",
+   "orgao": "Quinta Turma",
+   "area": "Direito Penal",
+   "impacto": "favoravel",
+   "temas": [
+    "Crimes em espécie"
+   ],
+   "titulo": "STJ: adulterar medidor de energia para registrar consumo menor configura estelionato, não furto qualificado mediante fraude",
+   "assunto": "Adulteração de medidor de energia elétrica. Induzimento da concessionária a erro. Desclassificação do furto qualificado mediante fraude para estelionato. Inviabilidade.",
+   "processo": "AREsp 3.204.574-SC, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, por unanimidade, julgado em 19/8/2026, DJEN 31/8/2026.",
+   "fonteNome": "Informativo de Jurisprudência do STJ n. 907",
+   "fonteUrl": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=%40CNOT%3D022710",
+   "rotuloTexto": "Destaque oficial",
+   "texto": "1. A adulteração do medidor de energia elétrica para registrar consumo inferior ao real configura estelionato, por induzir a concessionária em erro sobre a medida do objeto da cobrança.\n2. Na prestação regular de serviço, a fraude na medição não se subsume ao furto qualificado mediante fraude, ausentes subtração e inversão da posse do bem.",
+   "tags": [
+    "estelionato",
+    "furto mediante fraude",
+    "energia elétrica",
+    "SC"
+   ],
+   "imagem": "img/stj-inf907-medidor-energia-estelionato.jpg",
+   "imagemAlt": "Medidor de energia antigo em parede clara"
+  },
+  {
+   "id": "stj-inf907-bets-exterior-justica-federal",
+   "data": "2026-10-27",
+   "tribunal": "STJ",
+   "orgao": "Quinta Turma",
+   "area": "Processo Penal",
+   "impacto": "neutro",
+   "temas": [
+    "Recursos e HC"
+   ],
+   "titulo": "STJ: investigação sobre bet sediada fora do país deve ir à Justiça Federal para que ela avalie sua competência",
+   "assunto": "Jogo de azar, lavagem de dinheiro e associação criminosa. Investigação perante a Justiça Estadual. Transnacionalidade. Bet situada fora do país. Possibilidade de crime federal. Remessa à Justiça Federal para aferição de sua eventual competência.",
+   "processo": "AgRg no RHC 227.970-SC, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, por unanimidade, julgado em 17/3/2026, DJEN 24/3/2026.",
+   "fonteNome": "Informativo de Jurisprudência do STJ n. 907",
+   "fonteUrl": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=%40CNOT%3D022721",
+   "rotuloTexto": "Destaque oficial",
+   "texto": "Diante da possibilidade de a exploração irregular de apostas por empresa sediada fora do país (bets) configurar crimes no âmbito federal, cabe à Justiça Federal aferir a possível conexão das condutas investigadas na esfera estadual com eventual crime de sua competência.",
+   "tags": [
+    "competência",
+    "Justiça Federal",
+    "apostas",
+    "SC"
+   ],
+   "imagem": "img/stj-inf907-bets-exterior-justica-federal.jpg",
+   "imagemAlt": "Autos processuais sobre mesa de madeira"
+  },
+  {
+   "id": "stj-inf907-estupro-vulneravel-adulto-sem-resistencia",
+   "data": "2026-10-27",
+   "tribunal": "STJ",
+   "orgao": "Sexta Turma",
+   "area": "Direito Penal",
+   "impacto": "desfavoravel",
+   "temas": [
+    "Crimes em espécie"
+   ],
+   "titulo": "STJ: ato libidinoso contra adulto incapaz de resistir é estupro de vulnerável e não pode ser desclassificado para importunação sexual",
+   "assunto": "Estupro de vulnerável. Atos de libidinagem. Adulto incapaz de resistir. Desclassificação para importunação sexual. Inviabilidade.",
+   "processo": "Processo em segredo de justiça, Rel. Ministro Og Fernandes, Sexta Turma, por unanimidade, julgado em 4/8/2026, DJEN 14/8/2026.",
+   "fonteNome": "Informativo de Jurisprudência do STJ n. 907",
+   "fonteUrl": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=%40CNOT%3D022704",
+   "rotuloTexto": "Destaque oficial",
+   "texto": "A incapacidade de resistência da pessoa adulta atrai a mesma proteção legal conferida aos menores de 14 anos quanto à tipificação do crime de estupro de vulnerável.",
+   "tags": [
+    "estupro de vulnerável",
+    "importunação sexual",
+    "Tema 1121"
+   ],
+   "imagem": "img/stj-inf907-estupro-vulneravel-adulto-sem-resistencia.jpg",
+   "imagemAlt": "Balança da justiça sobre mesa clara"
   },
   {
    "id": "trf4-bol275-busca-suspeita-generica-descaminho",
