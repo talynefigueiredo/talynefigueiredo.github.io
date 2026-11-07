@@ -1,0 +1,27 @@
+name: Enviar decisões ao Telegram
+on:
+  push:
+    branches: [main]
+    paths: [posts.json]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: telegram
+  cancel-in-progress: false
+jobs:
+  enviar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Enviar decisões novas
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ vars.TELEGRAM_CHAT_ID }}
+        run: python3 scripts/telegram_send.py
+      - name: Registrar envio
+        run: |
+          git config user.name "Radar Criminal (automação)"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add telegram-enviados.json
+          git diff --cached --quiet || (git commit -m "Telegram: registra envios" && git pull --rebase origin main && git push)
