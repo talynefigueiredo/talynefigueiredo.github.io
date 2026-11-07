@@ -1,0 +1,152 @@
+{
+ "atualizadoEm": "2026-11-07T11:00:00-03:00",
+ "artigos": [
+  {
+   "id": "abordagem-policial-busca-pessoal-veicular-domiciliar",
+   "data": "2026-11-07",
+   "area": "Processo Penal",
+   "titulo": "Abordagem policial: quando a revista pessoal, no carro ou em casa, é ilegal?",
+   "resumo": "Fundada suspeita, blitz de trânsito, entrada em casa sem mandado e direito ao silêncio: o que STJ, TRF4 e TJSC decidiram nos últimos meses.",
+   "leitura": "8 min",
+   "blocos": [
+    {"p": "Poucos temas geram tantas dúvidas quanto a abordagem policial. Quem foi revistado na rua, teve o carro vasculhado numa blitz ou viu a polícia entrar em casa quer saber uma coisa: aquilo era permitido? E, se não era, o que acontece com o que foi apreendido?"},
+    {"p": "Neste texto eu organizo o que a lei diz e como os tribunais vêm decidindo, com as decisões recentes que publicamos no Radar Criminal. No fim, deixo uma lista do que favorece e do que preocupa a defesa."},
+    {"h": "O que a lei diz"},
+    {"p": "A busca pessoal sem mandado é a exceção. O Código de Processo Penal só a autoriza em caso de prisão ou quando houver <b>fundada suspeita</b> de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito (CPP, art. 244). A busca no veículo segue a mesma lógica, porque o carro é tratado como extensão da pessoa."},
+    {"p": "A casa tem proteção ainda maior. A Constituição diz que ela é asilo inviolável e que ninguém pode entrar sem consentimento do morador, salvo em flagrante delito, desastre, para prestar socorro ou, durante o dia, por determinação judicial (CF, art. 5º, XI)."},
+    {"p": "E a consequência de desrespeitar essas regras está no próprio CPP: provas obtidas por meio ilícito são inadmissíveis e devem ser desentranhadas do processo, assim como as que delas derivarem (CPP, art. 157)."},
+    {"h": "Fundada suspeita precisa ser concreta e anterior"},
+    {"p": "O ponto central é o que conta como fundada suspeita. Os tribunais vêm repetindo que ela não pode ser uma impressão, um \"nervosismo\" ou o simples fato de a pessoa estar em local conhecido pelo tráfico. Precisa haver elementos objetivos, que existam <b>antes</b> da revista."},
+    {"quote": "São consideradas ilícitas as provas obtidas a partir de suspeita genérica, sem base em elementos objetivos e concretos.", "fonte": "TRF4, 7ª Turma, Apelação Criminal nº 5007215-24.2023.4.04.7004 (Boletim Jurídico 275)", "url": "https://www.trf4.jus.br/trf4/boletimjuridico/arquivos/bol275.pdf"},
+    {"h": "Blitz de trânsito não é carta branca"},
+    {"p": "Uma dúvida muito comum: a polícia para o carro numa blitz por causa de película escura nos vidros. Ela pode, a partir disso, revistar o veículo? Para a Quinta Turma do STJ, não, se não houver outro elemento que justifique a suspeita."},
+    {"quote": "A abordagem administrativa de trânsito não autoriza, por si só, busca pessoal ou veicular, que exige fundada suspeita objetiva, concreta e anterior, referível à posse de corpo de delito.", "fonte": "STJ, Quinta Turma, AgRg no AREsp 3.203.005-MT (Informativo 901)", "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=%40CNOT%3D022618"},
+    {"p": "No caso, como não havia provas autônomas, o resultado foi a absolvição."},
+    {"h": "Entrar em casa exige urgência real"},
+    {"p": "Na busca domiciliar, o STJ olha para duas coisas: se havia fundadas razões de que um crime estava acontecendo dentro da casa e se havia urgência que impedisse pedir um mandado ao juiz. Em um caso de investigação de tráfico no Rio Grande do Sul, a Sexta Turma considerou a entrada ilegal justamente porque o tempo transcorrido mostrava que dava para pedir o mandado."},
+    {"quote": "Ainda, o tempo decorrido entre o comparecimento da acusada no imóvel e a invasão do local revela a inexistência de urgência que inviabilizasse o pedido prévio de mandado judicial, uma vez que não havia nenhum indicativo concreto de risco iminente de ocultação ou desaparecimento das drogas - cuja existência nem sequer havia sido confirmada.", "fonte": "STJ, Sexta Turma, AgRg no HC 761.669-RS (Informativo 907)", "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=%40CNOT%3D022705"},
+    {"h": "E o \"Aviso de Miranda\"?"},
+    {"p": "A Constituição garante ao preso o direito de ser informado de seus direitos, entre eles o de permanecer calado (CF, art. 5º, LXIII). Mas a falta desse aviso no momento da abordagem não anula, automaticamente, a busca. Foi o que entendeu a 5ª Câmara Criminal do TJSC em caso de tráfico e desobediência, ao afastar a nulidade da busca veicular (Autos n. 5002289-90.2025.8.24.0520)."},
+    {"p": "Em outras palavras: a ausência do aviso pode ter peso sobre declarações informais colhidas na hora, mas não basta, sozinha, para derrubar a apreensão feita no veículo."},
+    {"h": "O que favorece a defesa"},
+    {"ul": [
+      "Suspeita baseada em impressão, nervosismo ou \"atitude suspeita\" genérica não autoriza revista (TRF4, Boletim 275).",
+      "Parada por infração de trânsito não autoriza, por si só, revistar a pessoa ou o carro (STJ, AgRg no AREsp 3.203.005-MT).",
+      "Se havia tempo para pedir mandado, a entrada em casa sem ele tende a ser considerada ilegal (STJ, AgRg no HC 761.669-RS).",
+      "Prova ilícita contamina as provas derivadas; sem prova autônoma, o caminho é a absolvição (CPP, art. 157)."
+    ]},
+    {"h": "O que desfavorece a defesa"},
+    {"ul": [
+      "A falta do Aviso de Miranda na abordagem não gera, sozinha, nulidade da busca (TJSC, 5ª Câmara Criminal).",
+      "Quando o processo traz elementos objetivos anteriores (denúncia detalhada, investigação prévia, flagrante visível), a busca tende a ser validada.",
+      "Provas independentes da busca ilegal continuam valendo e podem sustentar a condenação."
+    ]},
+    {"h": "Como usar isso na prática"},
+    {"ul": [
+      "Leia o boletim de ocorrência e os depoimentos procurando <b>o que</b> motivou a abordagem e <b>quando</b> isso foi percebido: antes ou depois da revista?",
+      "Desconfie de justificativas padronizadas (\"local conhecido\", \"demonstrou nervosismo\").",
+      "Na busca domiciliar, compare horários: quanto tempo se passou entre a suspeita e a entrada? Havia tempo para pedir mandado?",
+      "Verifique se existe prova que não dependa da busca questionada; é isso que define o efeito prático da nulidade."
+    ]},
+    {"p": "A jurisprudência sobre abordagem muda caso a caso, e cada decisão depende dos fatos descritos no processo. Por isso, leia sempre o inteiro teor nas fontes oficiais antes de citar. Todas as decisões mencionadas estão no feed do Radar Criminal, com o link oficial e a ementa."}
+   ],
+   "decisoes": ["trf4-bol275-busca-suspeita-generica-descaminho", "stj-inf901-blitz-transito-busca-veicular", "stj-inf907-ingresso-domiciliar-sem-urgencia", "tjsc-aviso-de-miranda-busca-veicular"]
+  },
+  {
+   "id": "importunacao-sexual-ou-estupro-de-vulneravel",
+   "data": "2026-11-07",
+   "area": "Direito Penal",
+   "titulo": "Importunação sexual ou estupro de vulnerável? Onde o STJ traça a linha",
+   "resumo": "Importunação sem contato físico, vítima adulta incapaz de resistir e o peso das provas favoráveis à defesa: três decisões recentes do STJ.",
+   "leitura": "7 min",
+   "blocos": [
+    {"p": "Desde 2018, o Código Penal tem o crime de importunação sexual. Ele veio preencher um espaço entre a contravenção de \"importunação ofensiva ao pudor\", que era branda demais, e o estupro, que tem pena muito alta. Mas a fronteira entre esses tipos ainda gera muita discussão nos processos, e é um dos temas mais buscados por quem estuda direito penal."},
+    {"p": "Três decisões recentes do STJ, publicadas no Radar Criminal, ajudam a entender onde a Corte está traçando essa linha."},
+    {"h": "O que a lei diz"},
+    {"p": "A importunação sexual consiste em praticar contra alguém, sem a sua anuência, ato libidinoso com o objetivo de satisfazer a própria lascívia ou a de terceiro (CP, art. 215-A). A pena é de 1 a 5 anos, se o ato não constitui crime mais grave."},
+    {"p": "Já o estupro de vulnerável (CP, art. 217-A) pune a conjunção carnal ou o ato libidinoso com menor de 14 anos e, pelo § 1º, também com quem, por enfermidade ou deficiência mental, não tem o necessário discernimento, ou que, por qualquer outra causa, não pode oferecer resistência. A pena é muito mais alta."},
+    {"p": "A diferença essencial está na <b>vontade da vítima</b>. Na importunação, a vítima pode dizer não; o crime está em agir sem a concordância dela. No estupro de vulnerável, a lei entende que a vítima não tem condição de consentir."},
+    {"h": "Importunação pode existir sem contato físico"},
+    {"p": "Uma tese defensiva comum é a de que, sem toque, não haveria ato libidinoso. A Sexta Turma do STJ não aceitou essa leitura como regra absoluta e negou o trancamento de uma ação penal."},
+    {"quote": "1. A ausência de contato físico não exclui, de plano, a possibilidade de configuração do crime de importunação sexual, devendo a avaliação ocorrer à luz do conjunto probatório e das circunstâncias do caso concreto.\n2. O conceito de ato libidinoso não é taxativo, podendo abranger condutas como verbalizações de cunho sexual, conforme o contexto e a intenção de satisfazer a lascívia.", "fonte": "STJ, Sexta Turma, processo em segredo de justiça (Informativo 908)", "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisarumaedicao&livre=%270908%27.cod."},
+    {"p": "Repare na expressão \"de plano\". O STJ não disse que toda fala de conteúdo sexual é crime; disse que a falta de contato físico não basta para encerrar o processo logo no início. A discussão continua na instrução, com as provas."},
+    {"h": "Vítima adulta que não pode resistir: estupro de vulnerável"},
+    {"p": "O caminho inverso também aparece: a defesa pede a desclassificação do estupro de vulnerável para importunação sexual, que tem pena menor. A Sexta Turma negou esse pedido quando a vítima adulta estava impossibilitada de resistir."},
+    {"quote": "A incapacidade de resistência da pessoa adulta atrai a mesma proteção legal conferida aos menores de 14 anos quanto à tipificação do crime de estupro de vulnerável.", "fonte": "STJ, Sexta Turma, processo em segredo de justiça (Informativo 907)", "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=%40CNOT%3D022704"},
+    {"p": "O fundamento é lógico: se a importunação pressupõe agir \"sem a anuência\" da vítima, ela pressupõe também uma vítima que poderia consentir. Quem não tem como consentir está protegido pelo art. 217-A, e não pelo art. 215-A. O STJ aplicou ao caso a lógica do Tema 1121."},
+    {"h": "As provas favoráveis à defesa precisam ser enfrentadas"},
+    {"p": "Nem toda notícia recente é desfavorável. Em outubro, a Sexta Turma restabeleceu a absolvição de um acusado de estupro de vulnerável porque o tribunal de segundo grau o havia condenado sem analisar as provas técnicas oficiais favoráveis à defesa. Diante da dúvida razoável, prevaleceu a sentença absolutória (notícia oficial do STJ de 28/10/2026, relator Ministro Rogerio Schietti Cruz)."},
+    {"p": "É um lembrete importante: em crimes sexuais, a palavra da vítima tem grande peso, mas a condenação continua exigindo que o julgador enfrente o conjunto das provas, inclusive as que favorecem o acusado."},
+    {"h": "O que favorece a defesa"},
+    {"ul": [
+      "A importunação exige ato libidinoso com finalidade de satisfazer a lascívia; o contexto e a intenção precisam ser provados, não presumidos (Informativo 908).",
+      "Condenação que ignora laudos e provas técnicas favoráveis pode ser revertida por falta de fundamentação e dúvida razoável (STJ, notícia de 28/10/2026).",
+      "A importunação só se aplica \"se o ato não constitui crime mais grave\", mas o inverso também vale: sem prova da vulnerabilidade, não cabe a pena do art. 217-A."
+    ]},
+    {"h": "O que desfavorece a defesa"},
+    {"ul": [
+      "Ausência de contato físico não basta para trancar a ação penal por importunação (Informativo 908).",
+      "Verbalizações de cunho sexual podem ser consideradas ato libidinoso, conforme o contexto (Informativo 908).",
+      "Vítima adulta inconsciente, sob efeito de medicamentos ou incapaz de resistir afasta a desclassificação para importunação (Informativo 907)."
+    ]},
+    {"h": "Como usar isso na prática"},
+    {"ul": [
+      "Identifique, no processo, como a vulnerabilidade foi provada: há laudo, prontuário, testemunha? Ou apenas a narrativa?",
+      "Na importunação, examine o contexto: houve finalidade sexual demonstrada ou a conduta foi interpretada a partir de suposições?",
+      "Confira se a sentença ou o acórdão enfrentou cada prova técnica relevante; a omissão é argumento recursal.",
+      "Lembre que essas decisões dependem dos fatos de cada caso; leia o inteiro teor antes de citá-las."
+    ]},
+    {"p": "As três decisões estão no feed do Radar Criminal, com o link oficial."}
+   ],
+   "decisoes": ["stj-inf908-importunacao-sem-contato-fisico", "stj-inf907-estupro-vulneravel-adulto-sem-resistencia", "stj-noticia-absolvicao-restabelecida-provas-defesa"]
+  },
+  {
+   "id": "indulto-e-prisao-domiciliar-o-que-os-tribunais-exigem",
+   "data": "2026-11-07",
+   "area": "Execução Penal",
+   "titulo": "Indulto e prisão domiciliar: o que os tribunais estão exigindo em 2026",
+   "resumo": "Quem decide o indulto, qual lei vale para o roubo com arma de fogo e quando a mãe de crianças pequenas não consegue a domiciliar.",
+   "leitura": "7 min",
+   "blocos": [
+    {"p": "Indulto e prisão domiciliar estão entre as dúvidas mais frequentes de famílias de pessoas presas e de quem começa na área criminal. São institutos diferentes, mas têm algo em comum: dependem de requisitos que os tribunais vêm interpretando de forma cada vez mais precisa."},
+    {"p": "Reuni aqui três decisões recentes, publicadas no Radar Criminal, que mostram como STF e STJ estão tratando o tema. Ao final, como nos outros artigos, separo o que favorece e o que desfavorece a defesa."},
+    {"h": "Indulto: o que é e quem concede"},
+    {"p": "O indulto é um ato de clemência do Presidente da República (CF, art. 84, XII). Todo ano, normalmente perto do Natal, é publicado um decreto com os requisitos: tempo de pena cumprido, tipo de crime, comportamento, entre outros. Quem preenche os requisitos pode ter a pena extinta (indulto pleno) ou reduzida (comutação)."},
+    {"p": "Mas o decreto não se aplica sozinho. Alguém precisa verificar, caso a caso, se a pessoa preenche os requisitos. A Lei de Execução Penal trata do procedimento nos arts. 187 a 193."},
+    {"h": "Quem verifica os requisitos é o juiz da execução"},
+    {"p": "Em um caso do Paraná, o tribunal estadual concedeu o indulto diretamente, diante da demora do juízo da execução. A Quinta Turma do STJ reformou a decisão."},
+    {"quote": "Compete ao Juízo da Execução Penal, de forma exclusiva e originária, examinar o preenchimento dos requisitos objetivos e subjetivos para concessão de indulto, em razão de sua proximidade com a rotina do cumprimento da pena e do histórico atualizado do recluso, não cabendo ao Tribunal de origem substituir-se ao Juízo da Execução na valoração dos requisitos subjetivos, ainda que haja demora na prestação jurisdicional.", "fonte": "STJ, Quinta Turma, AgRg no REsp 2.235.492-PR (Informativo 905)", "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisarumaedicao&livre=%270905%27.cod."},
+    {"p": "Na prática, a demora do juízo da execução não autoriza o tribunal a pular etapas. O caminho é cobrar a decisão do juiz competente, e não pedir que o tribunal decida no lugar dele."},
+    {"h": "Qual lei vale: a da data do decreto"},
+    {"p": "Outra discussão frequente é sobre crimes considerados hediondos, que costumam ficar fora do indulto. Em outubro, a Primeira Turma do STF, por maioria, negou indulto a um condenado por roubo com arma de fogo e determinou a aplicação da lei vigente na data do decreto (HC 270735, relatora Ministra Cármen Lúcia, vencido o Ministro Cristiano Zanin, conforme notícia oficial do STF)."},
+    {"p": "O recado é que, para saber se alguém tem direito ao indulto, é preciso olhar a classificação do crime na data do decreto, e não apenas na data do fato ou da condenação."},
+    {"h": "Prisão domiciliar para mães: a regra e a exceção"},
+    {"p": "O Código de Processo Penal permite substituir a prisão preventiva pela domiciliar para mulher com filho de até 12 anos incompletos (CPP, art. 318, V), e o art. 318-A reforça essa substituição para gestantes e mães, desde que o crime não tenha sido cometido com violência ou grave ameaça nem contra o próprio filho ou dependente."},
+    {"p": "Mesmo assim, os tribunais admitem exceções em situações excepcionais. Uma delas apareceu em decisão recente da Sexta Turma do STJ:"},
+    {"quote": "É inviável a substituição da prisão preventiva por prisão domiciliar quando houver indícios de que a ré, mãe de crianças menores, atua em organização criminosa e utiliza a residência para traficar drogas.", "fonte": "STJ, Sexta Turma, HC 1.095.688-RJ (Informativo 904)", "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisarumaedicao&livre=%270904%27.cod."},
+    {"p": "A lógica é que, se o crime acontece justamente dentro de casa, mandar a pessoa para casa não protege as crianças nem cumpre a finalidade da cautelar. Fora dessa situação, a regra continua sendo a substituição."},
+    {"h": "O que favorece a defesa"},
+    {"ul": [
+      "A mãe de criança de até 12 anos tem, como regra, direito à substituição da preventiva pela domiciliar (CPP, arts. 318, V, e 318-A); a negativa exige situação excepcional e concreta.",
+      "O tráfico na residência só afasta a domiciliar quando há indícios concretos disso, não por presunção (Informativo 904).",
+      "O indulto é direito de quem preenche os requisitos do decreto; o juiz da execução não pode deixar o pedido sem resposta."
+    ]},
+    {"h": "O que desfavorece a defesa"},
+    {"ul": [
+      "O tribunal não pode conceder o indulto no lugar do juiz da execução, mesmo com demora (Informativo 905).",
+      "Para o indulto, vale a lei em vigor na data do decreto; crimes classificados como hediondos nessa data podem ficar de fora (STF, HC 270735).",
+      "Indícios de organização criminosa e de tráfico na própria casa afastam a prisão domiciliar da mãe (Informativo 904)."
+    ]},
+    {"h": "Como usar isso na prática"},
+    {"ul": [
+      "No indulto, leia o decreto do ano com atenção e verifique a classificação do crime na data em que ele foi publicado.",
+      "Faça o pedido ao juízo da execução, com o cálculo de pena atualizado e a certidão carcerária; se houver demora, cobre o próprio juízo.",
+      "Na domiciliar para mães, junte certidão de nascimento dos filhos e mostre quem cuida deles; se a acusação falar em tráfico na residência, verifique se há prova concreta disso.",
+      "A Lei de Execução Penal e o Código Penal foram alterados em 2026 (Lei 15.402/2026); confira sempre a redação vigente no site do Planalto."
+    ]},
+    {"p": "As decisões citadas estão no feed do Radar Criminal, com o link para a fonte oficial."}
+   ],
+   "decisoes": ["stj-inf905-indulto-competencia-juizo-execucao", "stf-hc-270735-indulto-roubo-arma-hediondo", "stj-inf904-domiciliar-mae-trafico-residencia"]
+  }
+ ]
+}

@@ -237,6 +237,25 @@ footer .social a:hover { color: var(--wine); }
   .band { padding: 60px 0; }
   .fab { right: 14px; bottom: 14px; padding: 12px 16px 12px 13px; font-size: 14.5px; }
 }
+.act.ig { background: linear-gradient(135deg,#FDE9E4,#F6E3F0); color: #8A2A5B; }
+.act.ig:hover { filter: brightness(0.97); }
+a.tile { display: block; text-decoration: none; color: inherit; transition: transform .15s, box-shadow .15s; }
+a.tile:hover { transform: translateY(-2px); box-shadow: 0 2px 4px rgba(0,0,0,0.05), 0 14px 32px rgba(0,0,0,0.07); }
+.tile .ler { display: inline-block; margin-top: 12px; font-weight: 700; font-size: 15px; color: var(--wine); }
+/* Story do Instagram */
+.story-modal { position: fixed; inset: 0; z-index: 60; background: rgba(20,16,17,0.55); display: flex; align-items: center; justify-content: center; padding: 16px; }
+.story-modal[hidden] { display: none; }
+.sm-box { position: relative; background: var(--card, #fff); border-radius: 22px; padding: 22px 22px 18px; width: min(420px, 100%); max-height: calc(100vh - 32px); overflow: auto; text-align: center; }
+.sm-box h3 { font-size: 19px; margin: 0 0 14px; }
+.sm-x { position: absolute; top: 10px; right: 12px; border: none; background: none; font-size: 28px; line-height: 1; cursor: pointer; color: var(--muted, #6E6E73); }
+.sm-prev { background: #F3F1EE; border-radius: 14px; aspect-ratio: 9 / 16; max-height: 56vh; margin: 0 auto 16px; overflow: hidden; display: flex; align-items: center; justify-content: center; }
+.sm-prev img { height: 100%; width: auto; }
+.sm-acts { display: flex; flex-direction: column; gap: 10px; }
+.sm-share, .sm-dl { border: none; border-radius: 999px; padding: 13px 18px; font-weight: 700; font-size: 16px; cursor: pointer; text-decoration: none; }
+.sm-share { background: linear-gradient(90deg,#F58529,#DD2A7B 55%,#8134AF); color: #fff; }
+.sm-share[hidden] { display: none; }
+.sm-dl { background: #F2F0ED; color: var(--ink, #1D1D1F); }
+.sm-tip { font-size: 13.5px; color: var(--muted, #6E6E73); margin: 12px 0 0; line-height: 1.45; }
 </style>
 </head>
 <body>
@@ -310,8 +329,8 @@ footer .social a:hover { color: var(--wine); }
 <section class="band alt" id="artigos">
   <div class="wrap">
     <h2>Artigos</h2>
-    <p class="lead">Textos para entender as decisões e aplicá-las na prática. A primeira série está em preparação.</p>
-    <div class="grid3">
+    <p class="lead">Textos para entender as decisões e aplicá-las na prática, com o que favorece e o que preocupa a defesa.</p>
+    <div class="grid3" id="artGrid">
       <div class="tile"><span class="k">Execução penal</span><h3>Remição, progressão e indulto</h3><p>Como conferir cálculos e prazos e quando provocar o juízo da execução.</p></div>
       <div class="tile"><span class="k">Provas</span><h3>Busca pessoal e domiciliar no STJ</h3><p>O que a Corte exige como fundada suspeita e fundadas razões.</p></div>
       <div class="tile"><span class="k">Recursos</span><h3>HC, RHC e revisão criminal</h3><p>Qual via cabe em cada momento do processo, segundo STF e STJ.</p></div>
@@ -367,6 +386,7 @@ footer .social a:hover { color: var(--wine); }
 <a class="fab" id="fab" href="https://chat.whatsapp.com/HPqADdmWNigGoGLBU06pu4" target="_blank" rel="noopener" aria-label="Entrar no grupo do Radar Criminal no WhatsApp"><svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2.2a9.7 9.7 0 0 0-8.4 14.6L2.3 21.7l5-1.3A9.7 9.7 0 1 0 12 2.2Zm0 17.7a8 8 0 0 1-4.1-1.1l-.3-.2-3 .8.8-2.9-.2-.3A8 8 0 1 1 12 19.9Zm4.4-6c-.2-.1-1.4-.7-1.7-.8-.2-.1-.4-.1-.5.1l-.8.9c-.1.2-.3.2-.5.1a6.6 6.6 0 0 1-3.3-2.9c-.2-.4.2-.4.7-1.3.1-.2 0-.3 0-.4l-.8-1.8c-.2-.5-.4-.4-.5-.4h-.5a.9.9 0 0 0-.6.3 2.7 2.7 0 0 0-.8 2c0 1.2.9 2.3 1 2.5.1.1 1.7 2.6 4.1 3.6 1.5.7 2.1.7 2.9.6.5-.1 1.4-.6 1.6-1.1.2-.6.2-1 .1-1.1l-.4-.3Z"/></svg><span>Entrar no grupo</span></a>
 <div class="toast" id="toast" role="status"></div>
 
+<script src="story.js" defer></script>
 <script>
 const SITE = { grupoWhatsApp: "https://chat.whatsapp.com/HPqADdmWNigGoGLBU06pu4" };
 const TRIBUNAIS = ["STF", "STJ", "TJRS", "TJSC", "TRF4", "Legislação"];
@@ -428,6 +448,7 @@ function card(p) {
       <button class="act" type="button" data-copy="${esc(p.id)}">Copiar ementa</button>
       <a class="act zap" href="https://api.whatsapp.com/send?text=${encodeURIComponent(textoZap(p))}" target="_blank" rel="noopener">WhatsApp</a>
       <button class="act" type="button" data-link="${esc(p.id)}">Copiar link</button>
+      <button class="act ig" type="button" data-story="${esc(p.id)}" aria-label="Compartilhar no Story do Instagram">Story</button>
       ${(p.temas || []).map(t => `<button class="tema" type="button" data-tema="${esc(t)}">#${esc(t)}</button>`).join("")}
     </div>
   </article>`;
@@ -480,7 +501,9 @@ document.addEventListener("click", e => {
   const c = e.target.closest("[data-copy]");
   if (c) { const p = POSTS.find(x => x.id === c.dataset.copy); if (p) copiar(`${p.titulo}\n${p.processo}\n\n${p.assunto && p.assunto !== p.texto ? p.assunto + "\n" : ""}${p.texto || ""}\n\nFonte: ${p.fonteUrl}`, "Ementa copiada"); return; }
   const l = e.target.closest("[data-link]");
-  if (l) copiar(shareUrl(l.dataset.link), "Link copiado");
+  if (l) { copiar(shareUrl(l.dataset.link), "Link copiado"); return; }
+  const st = e.target.closest("[data-story]");
+  if (st) { const p = POSTS.find(x => x.id === st.dataset.story); if (p && window.RadarStory) RadarStory.abrir({ tribunal: p.tribunal, orgao: p.orgao, impacto: p.impacto, titulo: p.titulo, processo: p.processo, imagem: p.imagem }); }
 });
 let tq; $("#q").addEventListener("input", e => { clearTimeout(tq); tq = setTimeout(() => { state.q = e.target.value.trim(); render(); }, 150); });
 document.addEventListener("keydown", e => { if (e.key === "/" && document.activeElement.tagName !== "INPUT") { e.preventDefault(); $("#q").focus(); } });
@@ -489,6 +512,11 @@ window.addEventListener("hashchange", destacar);
 $("#ano").textContent = new Date().getFullYear();
 (() => { const fab = $("#fab"), g = $("#grupo"); if (fab && g && "IntersectionObserver" in window) new IntersectionObserver(es => es.forEach(e => fab.hidden = e.isIntersecting), { threshold: 0.3 }).observe(g); })();
 if (SITE.grupoWhatsApp) { const b = $("#grupoBtn"); b.href = SITE.grupoWhatsApp; b.textContent = "Entrar no grupo"; b.removeAttribute("aria-disabled"); b.target = "_blank"; b.rel = "noopener"; }
+
+fetch("artigos.json", { cache: "no-store" }).then(r => r.ok ? r.json() : null).then(d => {
+  const a = (d && d.artigos) || []; if (!a.length) return;
+  $("#artGrid").innerHTML = a.slice(0, 6).map(x => `<a class="tile" href="artigos/${esc(x.id)}.html"><span class="k">${esc(x.area)}</span><h3>${esc(x.titulo)}</h3><p>${esc(x.resumo)}</p><span class="ler">Ler artigo ›</span></a>`).join("");
+}).catch(() => {});
 
 fetch("posts.json", { cache: "no-store" })
   .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
