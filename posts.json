@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-07T20:55:00-03:00",
+ "atualizadoEm": "2026-11-10T09:15:00-03:00",
  "posts": [
   {
    "id": "stf-adi-2039-mp-rs-investigacao-limites",
@@ -263,6 +263,31 @@
    ],
    "imagem": "img/stj-inf907-estupro-vulneravel-adulto-sem-resistencia.jpg",
    "imagemAlt": "Balança da justiça sobre mesa clara"
+  },
+  {
+   "id": "stj-inf906-hipertensao-domiciliar-preventiva",
+   "data": "2026-10-20",
+   "tribunal": "STJ",
+   "orgao": "Sexta Turma",
+   "area": "Processo Penal",
+   "impacto": "desfavoravel",
+   "temas": [
+    "Prisões e cautelares"
+   ],
+   "titulo": "STJ: hipertensão, por si só, não justifica trocar a prisão preventiva pela domiciliar",
+   "assunto": "Crime de estupro de vulnerável. Prisão preventiva. Pretensão de prisão domiciliar (art. 318, II, do CPP). Doença grave. Portador de hipertensão arterial sistêmica. Ausência de extrema debilidade do agente. Assistência médica prestada no estabelecimento prisional. Inexistência de intercorrências. Necessidade de prevalência do resguardo à ordem pública e à integridade da vítima.",
+   "processo": "Processo em segredo de justiça, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, por unanimidade, julgado em 16/9/2026, DJEN 22/9/2026.",
+   "fonteNome": "Informativo de Jurisprudência do STJ n. 906",
+   "fonteUrl": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=%40CNOT%3D022679",
+   "rotuloTexto": "Destaque oficial",
+   "texto": "A hipertensão arterial sistêmica, por si só, não justifica a substituição da prisão preventiva pela domiciliar; para a concessão da medida prevista no art. 318, II, do CPP, exige-se que o quadro de saúde do réu seja grave a ponto de lhe causar extrema debilidade, além da comprovação de que o tratamento médico necessário não pode ser adequadamente prestado no estabelecimento prisional.",
+   "tags": [
+    "prisão domiciliar",
+    "doença grave",
+    "art. 318 CPP"
+   ],
+   "imagem": "img/stj-inf906-hipertensao-domiciliar-preventiva.jpg",
+   "imagemAlt": "Estetoscópio e medidor de pressão sobre mesa clara"
   },
   {
    "id": "trf4-bol275-busca-suspeita-generica-descaminho",
