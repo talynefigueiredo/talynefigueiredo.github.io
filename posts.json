@@ -1,6 +1,140 @@
 {
- "atualizadoEm": "2026-11-10T16:00:00-03:00",
+ "atualizadoEm": "2026-11-10T20:55:00-03:00",
  "posts": [
+  {
+   "id": "stj-inf909-juri-prazo-mp-defensoria-entrega-autos",
+   "data": "2026-11-10",
+   "tribunal": "STJ",
+   "orgao": "Terceira Seção",
+   "area": "Processo Penal",
+   "impacto": "neutro",
+   "temas": [
+    "Júri",
+    "Recursos e HC"
+   ],
+   "titulo": "STJ fixa tese: no Júri, prazo do MP e da Defensoria para recorrer começa com a entrega dos autos ao órgão",
+   "assunto": "Tribunal do Júri. Intimação do Ministério Público e da Defensoria Pública. Início do cômputo do prazo. Remessa dos autos à instituição. Necessidade. Tema da Relevância da Questão Federal 1403.",
+   "processo": "REsp 2.225.548-PA, Rel. Ministro Rogerio Schietti, Terceira Seção, por unanimidade, julgado em 8/10/2026 (RQF Tema 1403).",
+   "fonteNome": "Informativo de Jurisprudência do STJ n. 909",
+   "fonteUrl": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=%40CNOT%3D022728",
+   "rotuloTexto": "Destaque oficial",
+   "texto": "O termo inicial da contagem do prazo para impugnar decisão judicial proferida no Tribunal do Júri é, para o Ministério Público e para a Defensoria Pública, a data da entrega dos autos na repartição administrativa do órgão, sendo irrelevante que a intimação pessoal tenha se dado durante a sessão plenária, em cartório ou por mandado.",
+   "tags": [
+    "Tribunal do Júri",
+    "prazo recursal",
+    "Defensoria Pública",
+    "RQF Tema 1.403"
+   ],
+   "imagemAlt": "Plenário de júri vazio com autos amarrados sobre a mesa",
+   "imagem": "img/stj-inf909-juri-prazo-mp-defensoria-entrega-autos.jpg"
+  },
+  {
+   "id": "stj-inf909-remicao-enem-aprovacao-parcial",
+   "data": "2026-11-10",
+   "tribunal": "STJ",
+   "orgao": "Terceira Seção",
+   "area": "Execução Penal",
+   "impacto": "favoravel",
+   "temas": [
+    "Execução penal"
+   ],
+   "titulo": "STJ fixa tese repetitiva: aprovação parcial no Enem dá direito a remição proporcional da pena",
+   "assunto": "Remição da pena por estudo. Aprovação parcial no Enem. Fato gerador centrado no esforço intelectual. Remição proporcional à pontuação mínima por área de conhecimento. Vedação de nova remição pelo mesmo fato gerador. Tema 1270.",
+   "processo": "REsp 2.101.592-SP, Rel. Ministro Rogerio Schietti, Terceira Seção, por unanimidade, julgado em 8/10/2026 (Repetitivo Tema 1270). REsp 2.115.433-SP, Rel. Ministro Rogerio Schietti, Terceira Seção, por unanimidade, julgado em 8/10/2026 (Repetitivo Tema 1270).",
+   "fonteNome": "Informativo de Jurisprudência do STJ n. 909",
+   "fonteUrl": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=%40CNOT%3D022726",
+   "rotuloTexto": "Destaque oficial",
+   "texto": "1) É cabível a remição proporcional da pena em favor da pessoa privada de liberdade que consiga aprovação parcial no Enem, assim entendida a obtenção, em ao menos uma das quatro áreas de conhecimento ou na redação, da pontuação mínima fixada pelo Inep para fins de certificação (atualmente, 450 pontos por área de conhecimento e 500 pontos na redação), vedada nova remição pelo mesmo fato gerador educacional, nos termos da Tese n. 3 do Tema Repetitivo n. 1.357 do STJ.\n2) A obtenção da pontuação mínima em cada área de conhecimento ou na redação corresponde a 20 dias de remição da pena, consideradas a base de cálculo de 1.200 horas e a razão de 1 dia de pena a cada 12 horas de estudo, de modo a totalizar 100 dias na hipótese de aprovação plena (art. 126, § 1º, I, da Lei n. 7.210/1984).\n3) O acréscimo de 1/3 previsto no art. 126, § 5º, da Lei n. 7.210/1984 pressupõe aprovação plena de que resulte a certificação da conclusão do ensino médio durante o cumprimento da pena.",
+   "tags": [
+    "remição por estudo",
+    "Enem",
+    "Tema 1.270",
+    "LEP art. 126"
+   ],
+   "imagemAlt": "Caderno de estudos aberto e livros sobre mesa junto à janela",
+   "imagem": "img/stj-inf909-remicao-enem-aprovacao-parcial.jpg"
+  },
+  {
+   "id": "stj-inf909-trafico-arma-guardada-concurso-material",
+   "data": "2026-11-10",
+   "tribunal": "STJ",
+   "orgao": "Sexta Turma",
+   "area": "Direito Penal",
+   "impacto": "desfavoravel",
+   "temas": [
+    "Crimes em espécie",
+    "Dosimetria e pena"
+   ],
+   "titulo": "STJ: arma guardada para terceiro, sem ligação com o tráfico, gera crime autônomo em concurso material",
+   "assunto": "Tráfico de drogas. Majorante do art. 40, IV, da Lei n. 11.343/2006. Não configuração. Finalidade de guardar armamento para terceiro. Posse ilegal de arma de fogo. Desígnios autônomos. Concurso material.",
+   "processo": "AgRg no HC 1.092.822-RS, Rel. Ministro Rogerio Schietti, Sexta Turma, por unanimidade, julgado em 26/8/2026, DJEN 31/8/2026.",
+   "fonteNome": "Informativo de Jurisprudência do STJ n. 909",
+   "fonteUrl": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=%40CNOT%3D022720",
+   "rotuloTexto": "Destaque oficial",
+   "texto": "A aplicação da majorante do art. 40, IV, da Lei n. 11.343/2006 exige nexo finalístico entre o uso da arma e a atividade de tráfico, com emprego do armamento para garantir o sucesso da mercancia; nessa hipótese, o delito de arma é absorvido. Ausente o nexo, o crime previsto na Lei n. 10.826/2003 configura crime autônomo, em concurso material com o tráfico.",
+   "tags": [
+    "tráfico de drogas",
+    "art. 40, IV",
+    "posse de arma",
+    "concurso material"
+   ],
+   "imagemAlt": "Cofre de metal antigo dentro de um armário",
+   "imagem": "img/stj-inf909-trafico-arma-guardada-concurso-material.jpg"
+  },
+  {
+   "id": "stj-inf909-reconhecimento-fotografico-cicatriz-absolvicao",
+   "data": "2026-11-10",
+   "tribunal": "STJ",
+   "orgao": "Sexta Turma",
+   "area": "Processo Penal",
+   "impacto": "favoravel",
+   "temas": [
+    "Provas e buscas",
+    "Nulidades"
+   ],
+   "titulo": "STJ absolve condenado só com base em reconhecimento fotográfico viciado de suspeito com cicatriz",
+   "assunto": "Autoria delitiva. Suspeito com traço distintivo (cicatriz). Condenação baseada exclusivamente em ato viciado de reconhecimento fotográfico. Ilegalidade. Inteligência do Tema 1258/STJ. Fragilidade probatória. Absolvição.",
+   "processo": "AgRg no HC 1.056.253-PE, Rel. Ministro Rogerio Schietti, Sexta Turma, por maioria, julgado em 4/8/2026, DJEN 14/9/2026.",
+   "fonteNome": "Informativo de Jurisprudência do STJ n. 909",
+   "fonteUrl": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=%40CNOT%3D022719",
+   "rotuloTexto": "Destaque oficial",
+   "texto": "Em casos nos quais o suspeito tem algum traço distintivo, como tatuagem ou cicatriz, apesar de ser difícil conseguir dublês com a mesma característica, é possível tentar ocultar a parte do corpo em que há a marca distintiva em todos os indivíduos exibidos ao reconhecedor de modo a não gerar induzimento em relação a um deles.",
+   "tags": [
+    "reconhecimento fotográfico",
+    "art. 226 CPP",
+    "Tema 1.258",
+    "absolvição"
+   ],
+   "imagemAlt": "Fotografias em branco enfileiradas e uma lupa sobre a mesa",
+   "imagem": "img/stj-inf909-reconhecimento-fotografico-cicatriz-absolvicao.jpg"
+  },
+  {
+   "id": "stj-inf909-embriaguez-volante-etilometro-nao-e-confissao",
+   "data": "2026-11-10",
+   "tribunal": "STJ",
+   "orgao": "Sexta Turma",
+   "area": "Direito Penal",
+   "impacto": "desfavoravel",
+   "temas": [
+    "Crimes em espécie",
+    "Dosimetria e pena"
+   ],
+   "titulo": "STJ: aceitar o teste do bafômetro não é confissão, e falta de habilitação agrava a pena na embriaguez ao volante",
+   "assunto": "Embriaguez ao volante. Art. 306, § 1º, I, do CTB. Incidência da agravante do art. 298, III, do CTB. Ausência de habilitação. Circunstância autônoma. Inexistência de bis in idem. Submissão voluntária ao teste do etilômetro. Produção de prova pericial. Ausência de declaração confessória. Atenuante da confissão espontânea. Não incidência.",
+   "processo": "REsp 2.266.601-DF, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, por unanimidade, julgado em 16/9/2026, DJEN 23/9/2026.",
+   "fonteNome": "Informativo de Jurisprudência do STJ n. 909",
+   "fonteUrl": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=%40CNOT%3D022763",
+   "rotuloTexto": "Destaque oficial",
+   "texto": "1. A concordância do investigado com a realização do teste do etilômetro, embora viabilize a produção de prova pericial, não configura confissão apta a ensejar o reconhecimento da circunstância atenuante.\n2. A agravante do art. 298, III, do Código de Trânsito incide quando o agente pratica crime de trânsito sem possuir Permissão para Dirigir ou Carteira Nacional de Habilitação, circunstância que não integra o tipo penal do art. 306 do CTB, razão pela qual não configura bis in idem.",
+   "tags": [
+    "embriaguez ao volante",
+    "etilômetro",
+    "confissão espontânea",
+    "CTB art. 298"
+   ],
+   "imagemAlt": "Chave de carro e taça vazia sobre mesa, estrada ao fundo",
+   "imagem": "img/stj-inf909-embriaguez-volante-etilometro-nao-e-confissao.jpg"
+  },
   {
    "id": "stf-adi-2039-mp-rs-investigacao-limites",
    "data": "2026-11-05",
@@ -54,6 +188,33 @@
    ],
    "imagem": "img/stj-sursis-contravencao-prazo-acima-minimo.jpg",
    "imagemAlt": "Calendário de mesa e ampulheta sobre mesa de madeira"
+  },
+  {
+   "id": "stj-show-up-reconhecimento-invalido-absolvicao",
+   "data": "2026-11-05",
+   "orgao": "Sexta Turma",
+   "area": "Processo Penal",
+   "impacto": "favoravel",
+   "temas": [
+    "Provas e buscas",
+    "Nulidades"
+   ],
+   "titulo": "STJ: reconhecimento por show-up contamina os atos seguintes e não sustenta condenação; absolvição mantida",
+   "assunto": "DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. RECONHECIMENTO PESSOAL E FOTOGRÁFICO REALIZADO POR SHOW-UP. INOBSERVÂNCIA DO ART. 226 DO CPP. TEMA REPETITIVO N. 1.258. PROVA COGNITIVAMENTE IRREPETÍVEL. AUSÊNCIA DE PROVAS INDEPENDENTES. HABEAS CORPUS IMPETRADO CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. FLAGRANTE ILEGALIDADE. ABSOLVIÇÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.",
+   "processo": "AgRg no HC n. 1.034.648/PE, relator Ministro Rogerio Schietti, Sexta Turma, julgado em 29/10/2026, DJEN de 5/11/2026..",
+   "rotuloTexto": "Ementa",
+   "texto": "1. O habeas corpus é remédio constitucional vocacionado à tutela da liberdade de locomoção contra ilegalidade ou abuso de poder, sem prazo e sem restrição temporal quanto ao ato coator (art. 5º, LXVIII, da Constituição da República). A orientação que veda o seu emprego como sucedâneo da revisão criminal ressalva, expressamente, a hipótese de flagrante ilegalidade, caso em que a ordem pode ser concedida, inclusive de ofício (arts. 654, § 2º, e 647-A do Código de Processo Penal). A coisa julgada penal, ademais, opera em favor do acusado, e não contra ele.\n2. Compete ao relator decidir monocraticamente o habeas corpus quando a decisão impugnada se conformar com tese fixada em recurso repetitivo, com súmula ou com a jurisprudência dominante, “ou as confrontar” (art. 34, XX, do RISTJ). A previsão regimental alcança, por sua literalidade, tanto a decisão que segue quanto a que contraria o precedente qualificado.\n3. As regras do art. 226 do Código de Processo Penal são de observância obrigatória tanto na esfera inquisitorial quanto em juízo, sob pena de invalidade da prova destinada a demonstrar a autoria delitiva, e o reconhecimento inválido não pode servir de lastro a condenação (Tema Repetitivo n. 1.258, tese 1; HC n. 598.886/SC, Rel. Ministro Rogerio Schietti, Sexta Turma, julgado em 27/10/2020).\n4. O reconhecimento de pessoas é prova irrepetível, na medida em que um reconhecimento inicialmente falho ou viciado tem o potencial de contaminar a memória do reconhecedor, esvaziando de certeza o procedimento realizado posteriormente, ainda que o novo procedimento atenda aos ditames do art. 226 do Código de Processo Penal (Tema Repetitivo n. 1.258, tese 3; HC n. 712.781/RJ, Rel. Ministro Rogerio Schietti, Sexta Turma, julgado em 15/3/2022).\n5. A condenação pode subsistir se amparada em provas ou evidências independentes que não guardem relação de causa e efeito com o ato viciado de reconhecimento (Tema Repetitivo n. 1.258, tese 4). Independência, aí, é conceito causal, e não meramente numérico: não convertem em prova autônoma os elementos que apenas reproduzem, repetem ou pressupõem o reconhecimento contaminado.\n6. No caso concreto, as vítimas foram levadas até a viatura policial, onde os dois suspeitos já se encontravam detidos, algemados e visivelmente agredidos por populares, e foram convidadas a olhar para dentro do veículo e a examinar fotografias então tiradas dos presos – exibição isolada, sem alinhamento com pessoas semelhantes, sem descrição prévia e sem auto pormenorizado. Trata-se de show-up, forma de identificação maximamente sugestiva, agravada pelo fato de uma das ofendidas contar 15 anos de idade à época.\n7. A repetição do ato em juízo não convalida o vício pretérito, porque o reconhecimento inicial afeta todos os subsequentes.\n8. Os elementos apontados pelo agravante como independentes – a detenção dos suspeitos por populares, os depoimentos dos policiais militares e a convergência das narrativas das ofendidas quanto ao modus operandi – não guardam autonomia causal em relação ao ato viciado: nenhum popular foi ouvido, os policiais nada presenciaram do roubo e apenas relatam o próprio show-up que conduziram, e a descrição da dinâmica do crime jamais foi controvertida, sendo a autoria, e não o modo de execução, o ponto em disputa. Não houve apreensão da res furtiva, de arma ou de qualquer objeto, e a única pessoa apta a estabelecer vínculo autônomo entre o crime e os detidos não foi arrolada como testemunha.\n9. Não há afronta à Súmula Vinculante n. 10 do Supremo Tribunal Federal, porquanto não se afastou a incidência do art. 226 do Código de Processo Penal, mas se lhe conferiu aplicação integral, nos exatos termos do Tema Repetitivo n. 1.258.\n10. Ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.\n11. Agravo regimental não provido.",
+   "tags": [
+    "reconhecimento de pessoas",
+    "show-up",
+    "art. 226 CPP",
+    "Tema 1.258"
+   ],
+   "imagemAlt": "Bonecos de madeira enfileirados, um deles em destaque",
+   "tribunal": "STJ",
+   "fonteNome": "Consulta processual do STJ – pesquise pelo número do processo",
+   "fonteUrl": "https://consulta-processo.web.stj.jus.br/",
+   "imagem": "img/stj-show-up-reconhecimento-invalido-absolvicao.jpg"
   },
   {
    "id": "stf-adi-6251-necrims-conciliacao",
@@ -501,6 +662,33 @@
    "imagemAlt": "Régua de madeira e lápis sobre folhas em branco"
   },
   {
+   "id": "stj-trafico-privilegiado-afastado-sem-fundamento-hc-oficio",
+   "data": "2026-10-23",
+   "orgao": "Sexta Turma",
+   "area": "Direito Penal",
+   "impacto": "favoravel",
+   "temas": [
+    "Dosimetria e pena",
+    "Recursos e HC"
+   ],
+   "titulo": "STJ: informante, variedade de drogas e dinheiro na casa de corréu não afastam o tráfico privilegiado; HC concedido de ofício",
+   "assunto": "DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. PARADIGMA PROFERIDO EM HABEAS CORPUS. TRÁFICO PRIVILEGIADO INDEVIDAMENTE AFASTADO. AGRAVO REGIMENTAL DESPROVIDO. HABEAS CORPUS CONCEDIDO DE OFÍCIO.",
+   "processo": "AgRg no AREsp n. 3.317.228/SP, relatora Ministra Nilsoni de Freitas (Desembargadora Convocada do TJDFT), Sexta Turma, julgado em 20/10/2026, DJEN de 23/10/2026..",
+   "rotuloTexto": "Ementa",
+   "texto": "I. Caso em exame\n1. Agravo regimental contra decisão da Presidência do STJ que não conheceu do agravo em recurso especial pela incidência da Súmula n. 284/STF e pela falta de comprovação do dissídio jurisprudencial, em recurso especial interposto apenas com base na alínea c do permissivo constitucional. O agravante foi condenado a 5 (cinco) anos de reclusão, em regime inicial fechado, por manter em depósito, em sua residência, 4,57 g de cocaína, 4,13 g de crack e porções de 1,39 g e 2,69 g de maconha, com R$ 50,00 em dinheiro, e sustenta ter indicado o art. 33, § 4º, da Lei n. 11.343/2006 e impugnado o óbice do dissídio, pedindo, subsidiariamente, a concessão de habeas corpus de ofício.\nII. Questão em discussão\n2. Há duas questões em discussão: (i) saber se subsiste o óbice da falta de comprovação do dissídio jurisprudencial; e (ii) saber se o afastamento do tráfico privilegiado com base em informação de informante, na variedade das drogas e em dinheiro apreendido na casa do corréu configura flagrante ilegalidade apta à concessão de habeas corpus de ofício.\nIII. Razões de decidir\n3. O único julgado indicado como paradigma no recurso especial foi proferido em habeas corpus, ação que não se presta à demonstração da divergência, e não houve cotejo analítico: o paradigma trata da fração do redutor já reconhecido, ao passo que o acórdão recorrido negou a própria minorante. A falta de comprovação do dissídio basta, por si, para o não conhecimento do recurso interposto apenas pela alínea c.\n4. A informação do informante, reproduzida pelos policiais, foi tida pelo próprio acórdão como insuficiente para a associação para o tráfico; a quantidade de droga foi considerada dentro da normalidade do tipo; e a quantia expressiva de dinheiro estava na residência do corréu. Esses dados não demonstram dedicação a atividades criminosas.\n5. A ação penal em curso mencionada na sentença não foi adotada pelo acórdão e não impede a aplicação da minorante, nos termos do Tema n. 1.139/STJ.\n6. Sem fundamento concreto para fração menor, o redutor incide em 2/3, com pena de 1 (um) ano e 8 (oito) meses de reclusão e 166 (cento e sessenta e seis) dias-multa, regime inicial aberto e substituição da pena privativa de liberdade por restritivas de direitos, conforme a Súmula Vinculante n. 59/STF.\nIV. Dispositivo\n7. Agravo regimental desprovido. Habeas corpus concedido de ofício.",
+   "tags": [
+    "tráfico privilegiado",
+    "art. 33, § 4º",
+    "Tema 1.139",
+    "SP"
+   ],
+   "imagemAlt": "Balança de pratos antiga em latão sobre mesa de madeira",
+   "tribunal": "STJ",
+   "fonteNome": "Consulta processual do STJ – pesquise pelo número do processo",
+   "fonteUrl": "https://consulta-processo.web.stj.jus.br/",
+   "imagem": "img/stj-trafico-privilegiado-afastado-sem-fundamento-hc-oficio.jpg"
+  },
+  {
    "id": "stj-inf906-hipertensao-domiciliar-preventiva",
    "data": "2026-10-20",
    "tribunal": "STJ",
@@ -726,6 +914,32 @@
    ],
    "imagem": "img/stj-inf904-domiciliar-mae-trafico-residencia.jpg",
    "imagemAlt": "Sala com brinquedo infantil no sofá"
+  },
+  {
+   "id": "stj-detracao-prisao-cautelar-processo-distinto-absolvicao",
+   "data": "2026-10-01",
+   "orgao": "Sexta Turma (decisão monocrática)",
+   "area": "Execução Penal",
+   "impacto": "favoravel",
+   "temas": [
+    "Execução penal"
+   ],
+   "titulo": "STJ: prisão cautelar em processo com absolvição pode ser descontada da pena em execução por crime anterior",
+   "assunto": "",
+   "processo": "AgRg no HC 1.106.226-PR, Rel. Ministro Sebastião Reis Júnior, decisão monocrática de 29/9/2026, DJEN de 01/10/2026.",
+   "rotuloTexto": "Trechos do inteiro teor",
+   "texto": "O Superior Tribunal de Justiça tem entendido ser possível a detração do tempo de prisão cautelar cumprido em processo no qual o réu foi absolvido ou teve sua punibilidade extinta, mesmo que ele esteja cumprindo pena definitiva por outro crime nesse período. A única condição para tanto é que o crime pelo qual o apenado cumpre a pena definitiva tenha sido praticado em data anterior ao período de prisão cautelar que se pretende detrair, a fim de evitar a criação de uma espécie de “crédito de pena” que poderia incentivar a prática de novos delitos.\n[…]\nEm face do exposto, reconsidero a decisão por meio da qual indeferi liminarmente a inicial do writ, e concedo a ordem impetrada para determinar que o Juízo de Direito da Seção de Execução Penal de Catanduvas/PR proceda à nova análise da detração requerida pelo ora agravante, reconhecendo-se a possibilidade de detração do período de prisão cautelar suportado entre 19/04/2016 e 01/12/2017 nos Autos nº 0011859-51.2016.8.14.0401, retificando-se o cálculo executório.",
+   "tags": [
+    "detração",
+    "prisão cautelar",
+    "absolvição",
+    "PR"
+   ],
+   "imagemAlt": "Calendário de parede com dias riscados e ábaco de madeira",
+   "tribunal": "STJ",
+   "fonteNome": "Consulta processual do STJ – pesquise pelo número do processo",
+   "fonteUrl": "https://consulta-processo.web.stj.jus.br/",
+   "imagem": "img/stj-detracao-prisao-cautelar-processo-distinto-absolvicao.jpg"
   },
   {
    "id": "stj-inf901-blitz-transito-busca-veicular",
