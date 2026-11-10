@@ -1,0 +1,11 @@
+Diagnóstico 2 — Radar Criminal
+1. date: Tue Nov 10 14:25:01 UTC 2026 / echo: inicio
+2. ToolSearch "select:mcp__claude-code-remote__add_repo,mcp__Gmail__search_threads,mcp__Canva__generate-image":
+   carregaram: mcp__Gmail__search_threads, mcp__Canva__generate-image
+   NÃO carregou: mcp__claude-code-remote__add_repo (busca "add_repo" retornou "No matching deferred tools found")
+3. add_repo: não executado — ferramenta indisponível nesta sessão (não está na lista de ferramentas nem nas diferidas).
+4. git clone --depth 1: OK ("Cloning into './site'..."); conteúdo inclui README.md, artigos/, artigos.json, index.html etc.
+5. Gmail search_threads "from:stj.jus.br newer_than:5d": 0 resultados (resposta {}).
+6. WebSearch standard "Informativo de Jurisprudência STJ novembro 2026" (allowed_domains stj.jus.br): 10 resultados
+   (títulos citam "Informativo de Jurisprudência n. 908 - 03 de novembro de 2026").
+7. Commit/push: ver resultado no histórico do git.
