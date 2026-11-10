@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-10T09:15:00-03:00",
+ "atualizadoEm": "2026-11-10T16:00:00-03:00",
  "posts": [
   {
    "id": "stf-adi-2039-mp-rs-investigacao-limites",
@@ -30,6 +30,32 @@
    "imagemAlt": "Pastas de inquérito amarradas com fita sobre mesa de madeira"
   },
   {
+   "id": "stj-sursis-contravencao-prazo-acima-minimo",
+   "data": "2026-11-05",
+   "tribunal": "STJ",
+   "orgao": "Sexta Turma",
+   "area": "Direito Penal",
+   "impacto": "favoravel",
+   "temas": [
+    "Dosimetria e pena"
+   ],
+   "titulo": "STJ: fixar o prazo do sursis acima do mínimo exige fundamentação concreta",
+   "assunto": "DIREITO PENAL E DIREITO PROCESSUAL PENAL. RECURSO ESPECIAL. CONTRAVENÇÃO PENAL DE VIAS DE FATO. SUSPENSÃO CONDICIONAL DA PENA. PRAZO DO SURSIS. NORMA ESPECIAL. AUSÊNCIA DE MOTIVAÇÃO IDÔNEA PARA FIXAÇÃO ACIMA DO MÍNIMO.",
+   "processo": "REsp n. 2.241.472/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 29/10/2026, DJEN de 5/11/2026.",
+   "fonteNome": "Consulta processual do STJ – pesquise pelo número do processo",
+   "fonteUrl": "https://consulta-processo.web.stj.jus.br/",
+   "rotuloTexto": "Ementa",
+   "texto": "1. A suspensão condicional da pena nas contravenções penais observa regra específica quanto ao prazo, devendo a escolha dentro do intervalo legal ser motivada de forma idônea pelas circunstâncias do caso. 2. A elevação do período de prova acima do mínimo legal exige fundamentação concreta, baseada em elementos objetivos do caso, não bastando a afirmação genérica de compatibilidade com parâmetros legais. 3. No caso, a decisão fixou pena no mínimo e reconheceu circunstâncias favoráveis, mas estabeleceu a suspensão por dois anos sem justificar, de modo concreto, as razões para superar o prazo mínimo. 4. Recurso especial provido para fixar o sursis pelo prazo de 1 ano, em condições que serão oportunamente estabelecidas pelo juízo competente para execução.",
+   "tags": [
+    "sursis",
+    "contravenção penal",
+    "vias de fato",
+    "MG"
+   ],
+   "imagem": "img/stj-sursis-contravencao-prazo-acima-minimo.jpg",
+   "imagemAlt": "Calendário de mesa e ampulheta sobre mesa de madeira"
+  },
+  {
    "id": "stf-adi-6251-necrims-conciliacao",
    "data": "2026-11-04",
    "tribunal": "STF",
@@ -55,6 +81,33 @@
    ],
    "imagem": "img/stf-adi-6251-necrims-conciliacao.jpg",
    "imagemAlt": "Mesa redonda com duas cadeiras vazias frente a frente"
+  },
+  {
+   "id": "stj-cadeia-custodia-celular-bloqueado-sem-lacre",
+   "data": "2026-11-04",
+   "tribunal": "STJ",
+   "orgao": "Quinta Turma",
+   "area": "Processo Penal",
+   "impacto": "favoravel",
+   "temas": [
+    "Provas e buscas",
+    "Nulidades"
+   ],
+   "titulo": "STJ: celular bloqueado por senha sob custódia do Estado e sem lacre torna a prova digital imprestável",
+   "assunto": "DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. PROVA DIGITAL. CADEIA DE CUSTÓDIA. BLOQUEIO POR SENHA SUPERVENIENTE E AUSÊNCIA DE LACRE. IMPOSSIBILIDADE DE REPETIÇÃO DA PERÍCIA. ÔNUS DO ESTADO SOBRE INTEGRIDADE E CONFIABILIDADE DA PROVA. IMPRESTABILIDADE PROBATÓRIA. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO. ORDEM CONCEDIDA.",
+   "processo": "AgRg no HC n. 1.029.565/ES, relator Ministro Joel Ilan Paciornik, relator para acórdão Ministro Messod Azulay Neto, Quinta Turma, julgado em 13/10/2026, DJEN de 4/11/2026.",
+   "fonteNome": "Consulta processual do STJ – pesquise pelo número do processo",
+   "fonteUrl": "https://consulta-processo.web.stj.jus.br/",
+   "rotuloTexto": "Ementa",
+   "texto": "I. CASO EM EXAME 1. O recurso. Agravo regimental interposto em habeas corpus, impugnando decisão monocrática que denegou a ordem e revogou liminar, em ação penal que apura, em tese, corrupção passiva majorada (art. 317, caput e § 1º, c/c arts. 29 e 71 do Código Penal), com denúncia lastreada em dados telemáticos extraídos, em processo diverso e sem a participação do paciente, de aparelho celular de corréu. 2. Fato relevante. Em decisão colegiada, foi determinada nova perícia com a possibilidade de apresentação de quesitos pelas partes. O Laudo Pericial n. 18.500/2023 registrou, no entanto, bloqueio por senha no dispositivo, inviabilizando nova extração do conteúdo. Consta divergência documental quanto à conservação do vestígio: laudo anterior registrou devolução em sacola lacrada com número específico, enquanto o novo exame encontrou apenas fita adesiva e grampeamento, sem lacre formal. 3. As decisões anteriores. Órgão julgador estadual rejeitou nulidade por suposta quebra da cadeia de custódia, sob fundamento de licitude da extração originária (mandado judicial, peritos oficiais e certificação por hash). Na via do habeas corpus, decisão monocrática entendeu inexistente adulteração efetiva e reputou eventual falha superveniente insuficiente para contaminar a prova, apontando acervo probatório autônomo. A defesa agravou buscando reconhecer a inadmissibilidade ou, sucessivamente, a imprestabilidade da prova digital e o cerceamento de defesa pelo impedimento de contraprova técnica. II. QUESTÃO EM DISCUSSÃO 4. Há duas questões em discussão: (i) saber se a impossibilidade de repetição da perícia, decorrente do aparecimento de senha no aparelho durante a custódia estatal e da ausência de lacre formal, justifica o reconhecimento de quebra da cadeia de custódia e a consequente imprestabilidade da prova digital para a ação penal em curso; e (ii) saber se a impossibilidade de nova extração impõe ao Estado o ônus de afirmar e demonstrar a integralidade, identidade e confiabilidade da prova, afastando a presunção de veracidade quando descumpridos procedimentos de conservação do vestígio. III. RAZÕES DE DECIDIR 5. A superveniência de bloqueio por senha enquanto o aparelho permaneceu sob custódia estatal e a ausência de lacre formal rompem a mesmidade do vestígio, geram desconfiança epistêmica e comprometem a autenticidade e a comparabilidade do conteúdo, inviabilizando o contraditório técnico na reprodução da prova. 6. A conservação do corpo de delito é dever estatal contínuo; a divergência documental entre o lacre certificado no laudo originário e o estado do aparelho no novo exame evidencia inobservância da preservação adequada, o que afasta a confiabilidade da prova digital para fins de persecução penal contra terceiro não participante da relação processual originária. 7. Diante da irrepetibilidade criada pela própria custódia estatal, não se pode exigir da defesa demonstração específica de adulteração do conteúdo; o ônus de comprovar integridade e confiabilidade das fontes de prova apresentadas recai sobre o Estado. 8. A certificação por hash na extração originária atesta apenas a correspondência naquele momento histórico específico e, portanto, não elide incertezas supervenientes nem substitui a necessidade de repetição em atenção ao contraditório efetivo de quem não fez parte da relação jurídica que deu causa à descoberta fortuita; a irrepetibilidade esvazia o valor probatório do conteúdo para a ação penal decorrente da descoberta de indícios na perícia originária de outro delito. 9. Na via do habeas corpus, não se examina a suficiência do acervo probatório autônomo remanescente, limitando-se ao reconhecimento da imprestabilidade da prova digital impugnada e dos efeitos correlatos sobre o contraditório e a ampla defesa. IV. DISPOSITIVO E TESE 6. Resultado do Julgamento: Agravo regimental parcialmente provido para reconhecer a imprestabilidade da prova digital extraída do aparelho celular e conceder a ordem, vedando sua utilização na ação penal decorrente da descoberta fortuita. Tese de julgamento: 1. O Estado deve conservar, com integridade, identidade e autenticidade, vestígios sob sua custódia; a inobservância dessa preservação compromete a confiabilidade e impede o uso da prova na persecução penal. 2. A impossibilidade de repetição da perícia, ocasionada por bloqueio por senha superveniente e ausência de lacre, torna imprestável a prova digital para acusação contra terceiro e impede o contraditório técnico efetivo. 3. O ônus de comprovar a integridade e a confiabilidade das fontes de prova apresentadas recai sobre o Estado, especialmente quando descumpridos procedimentos de cadeia de custódia. 4. A certificação por hash na extração originária não supre falhas posteriores de custódia nem afasta dúvidas sobre autenticidade e comparabilidade do conteúdo em contexto diverso. Dispositivos relevantes citados: CPP, art. 158; CP, art. 317, caput e § 1º; CP, arts. 29 e 71 Jurisprudência relevante citada:STJ, AgRg no RHC 143.169/RJ, Rel. Min. Messod Azulay Neto, Rel. p/ acórdão Min. Ribeiro Dantas, Quinta Turma, julgado em 07.02.2023, DJe 02.03.2023.",
+   "tags": [
+    "cadeia de custódia",
+    "prova digital",
+    "perícia",
+    "ES"
+   ],
+   "imagemAlt": "Envelope de evidência lacrado sobre mesa",
+   "imagem": "img/stj-cadeia-custodia-celular-bloqueado-sem-lacre.jpg"
   },
   {
    "id": "stj-inf908-importunacao-sem-contato-fisico",
@@ -109,6 +162,32 @@
    "imagem": "img/stj-temas-1154-1241-drogas-dosimetria-trafico.jpg"
   },
   {
+   "id": "stj-remicao-cuidados-maternos-amamentacao",
+   "data": "2026-11-03",
+   "tribunal": "STJ",
+   "orgao": "Quinta Turma (decisão monocrática)",
+   "area": "Execução Penal",
+   "impacto": "favoravel",
+   "temas": [
+    "Execução penal"
+   ],
+   "titulo": "STJ: cuidados maternos e amamentação na prisão dão direito à remição da pena",
+   "assunto": "",
+   "processo": "HC 1.137.955-SP, Rel. Ministro Messod Azulay Neto, decisão monocrática de 28/10/2026, DJEN de 03/11/2026.",
+   "fonteNome": "Consulta processual do STJ – pesquise pelo número do processo",
+   "fonteUrl": "https://consulta-processo.web.stj.jus.br/",
+   "rotuloTexto": "Trechos do inteiro teor",
+   "texto": "Ante o exposto, não conheço do habeas corpus. Concedo a ordem, de ofício, para, nos termos do entendimento consagrado no HC n. 920.980/SP pela Terceira Seção deste STJ, determinar que o juízo de origem aprecie novamente o caso concreto da paciente (inclusive com a possibilidade de instrução defensiva suplementar, se necessário), tudo nos termos da fundamentação supra. Para atender plenamente o julgado paradigma, determino, ao juízo da execução, que oficie ao estabelecimento prisional requisitando informação específica sobre o período pleiteado, efetivando, na sequência, o desconto da pena em decorrência da remição respectiva, observado o inciso II do § 1º do artigo 126 da Lei n. 7.210/1984. Intime-se a origem, com urgência, para o cumprimento.",
+   "tags": [
+    "remição",
+    "cuidados maternos",
+    "LEP art. 126",
+    "SP"
+   ],
+   "imagemAlt": "Mãe com bebê no colo em luz suave, rosto não identificável",
+   "imagem": "img/stj-remicao-cuidados-maternos-amamentacao.jpg"
+  },
+  {
    "id": "stj-noticia-absolvicao-restabelecida-provas-defesa",
    "data": "2026-10-28",
    "tribunal": "STJ",
@@ -133,6 +212,58 @@
    ],
    "imagem": "img/stj-noticia-absolvicao-restabelecida-provas-defesa.jpg",
    "imagemAlt": "Balança da justiça sobre mesa com documentos"
+  },
+  {
+   "id": "stj-revisao-criminal-dosimetria-sem-litispendencia",
+   "data": "2026-10-28",
+   "tribunal": "STJ",
+   "orgao": "Quinta Turma",
+   "area": "Processo Penal",
+   "impacto": "favoravel",
+   "temas": [
+    "Recursos e HC"
+   ],
+   "titulo": "STJ: segunda revisão criminal limitada à dosimetria não configura litispendência com a primeira",
+   "assunto": "DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. REVISÃO CRIMINAL. LITISPENDÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. EFEITOS INFRINGENTES. EMBARGOS ACOLHIDOS.",
+   "processo": "EDcl no AgRg no HC n. 1.089.455/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/10/2026, DJEN de 28/10/2026.",
+   "fonteNome": "Consulta processual do STJ – pesquise pelo número do processo",
+   "fonteUrl": "https://consulta-processo.web.stj.jus.br/",
+   "rotuloTexto": "Ementa",
+   "texto": "I. CASO EM EXAME 1. Embargos de declaração opostos contra acórdão que negou provimento ao agravo regimental. 2. Em 23/3/2026, ainda pendente o julgamento do referido agravo interno, ajuizamento da Revisão Criminal n. 2072511-54.2026.8.26.0000, com fundamento no art. 621, I, do CPP, insurgindo-se exclusivamente contra a dosimetria da pena do delito previsto no art. 351 do Código Penal, pelo argumento de indevida preponderância da agravante da reincidência sobre a atenuante da menoridade relativa e requerendo a compensação dessas circunstâncias. II. QUESTÃO EM DISCUSSÃO 3. Há duas questões em discussão: (i) saber se o indeferimento do processamento da Revisão Criminal n. 2072511-54.2026.8.26.0000 e a negativa de seguimento ao agravo interno, sob fundamento de litispendência com a Revisão Criminal n. 0036043-62.2025.8.26.0000, configuraram negativa de prestação jurisdicional; e (ii) saber se há litispendência entre as revisões criminais, diante da insurgência restrita, na segunda ação, à dosimetria da pena do delito do art. 351 do Código Penal. III. RAZÕES DE DECIDIR 4. Os embargos de declaração são cabíveis para suprir omissão, contradição, ambiguidade ou obscuridade existentes no julgado (CPP, art. 619). 5. Configurada negativa de prestação jurisdicional pela origem, que deixou de apreciar o mérito da Revisão Criminal n. 2072511-54.2026.8.26.0000 e negou seguimento ao agravo interno, impedindo o acesso do embargante ao Colegiado de origem. 6. Inexistência de litispendência entre as revisões criminais, uma vez que a segunda se limita à dosimetria da pena do delito previsto no art. 351 do Código Penal, não reproduzindo integralmente os fundamentos da primeira. 7. Necessidade de afastar o óbice da litispendência que fundamentou o não conhecimento e de determinar novo julgamento da Revisão Criminal n. 0036043-62.2025.8.26.0000 pela origem, como entender de direito. IV. DISPOSITIVO 8. Resultado do Julgamento: Embargos de declaração acolhidos, com efeitos infringentes, para afastar a litispendência como fundamento para o não conhecimento da Revisão Criminal n. 0036043-62.2025.8.26.0000, determinando-se ao Tribunal de origem novo julgamento da referida revisão criminal. Dispositivos relevantes citados: CPP, art. 619; CPP, art. 621, I; CP, art. 351",
+   "tags": [
+    "revisão criminal",
+    "litispendência",
+    "embargos de declaração",
+    "SP"
+   ],
+   "imagem": "img/stj-revisao-criminal-dosimetria-sem-litispendencia.jpg",
+   "imagemAlt": "Pastas de processo abertas sobre mesa de madeira"
+  },
+  {
+   "id": "stj-remicao-304-dias-trabalho-restabelecida",
+   "data": "2026-10-28",
+   "tribunal": "STJ",
+   "orgao": "Quinta Turma (decisão monocrática)",
+   "area": "Execução Penal",
+   "impacto": "favoravel",
+   "temas": [
+    "Execução penal"
+   ],
+   "titulo": "STJ restabelece remição de 304 dias de pena pelo trabalho realizado no presídio",
+   "assunto": "",
+   "processo": "HC 1.139.775-RS, Rel. Ministro Joel Ilan Paciornik, decisão monocrática de 26/10/2026, DJEN de 28/10/2026.",
+   "fonteNome": "Consulta processual do STJ – pesquise pelo número do processo",
+   "fonteUrl": "https://consulta-processo.web.stj.jus.br/",
+   "rotuloTexto": "Trechos do inteiro teor",
+   "texto": "Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço da impetração. Contudo, com fundamento no art. 203, II, do RISTJ, concedo a ordem de habeas corpus, de ofício, para restabelecer a decisão do Juízo da Execução Penal que deferiu a remição de 304 dias de pena ao agravante pelo trabalho realizado no presídio.",
+   "tags": [
+    "remição",
+    "trabalho",
+    "LEP art. 126",
+    "RS"
+   ],
+   "imagem": "img/stj-remicao-304-dias-trabalho-restabelecida.jpg",
+   "imagemAlt": "Bancada de marcenaria com ferramentas, sem pessoas"
   },
   {
    "id": "stj-inf907-ingresso-domiciliar-sem-urgencia",
@@ -265,6 +396,111 @@
    "imagemAlt": "Balança da justiça sobre mesa clara"
   },
   {
+   "id": "stj-culpabilidade-crime-anterior-transito-julgado",
+   "data": "2026-10-27",
+   "tribunal": "STJ",
+   "orgao": "Quinta Turma",
+   "area": "Direito Penal",
+   "impacto": "favoravel",
+   "temas": [
+    "Dosimetria e pena",
+    "Recursos e HC"
+   ],
+   "titulo": "STJ: crime praticado antes do trânsito em julgado da condenação anterior não pode negativar a culpabilidade",
+   "assunto": "DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO QUALIFICADA. CELULAR ROUBADO ADQUIRIDO POR COMERCIANTE DO RAMO. NEGATIVA DE SUBSTITUIÇÃO DA PENA. MANUTENÇÃO NO RECURSO ESPECIAL. ALEGADA PREMISSA FÁTICA INEXISTENTE NA CULPABILIDADE. INOVAÇÃO RECURSAL. CULPABILIDADE NEGATIVADA POR CRIME SUPOSTAMENTE COMETIDO DURANTE O CUMPRIMENTO DE PENA. ILEGALIDADE FLAGRANTE CONFIGURADA. FATO ANTERIOR AO TRÂNSITO EM JULGADO DA CONDENAÇÃO PRECEDENTE. AGRAVO REGIMENTAL DESPROVIDO. HABEAS CORPUS CONCEDIDO DE OFÍCIO.",
+   "processo": "AgRg no AREsp n. 3.364.974/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/10/2026, DJEN de 27/10/2026.",
+   "fonteNome": "Consulta processual do STJ – pesquise pelo número do processo",
+   "fonteUrl": "https://consulta-processo.web.stj.jus.br/",
+   "rotuloTexto": "Ementa",
+   "texto": "I. Caso em exame 1. Agravo regimental contra decisão que conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, negou-lhe provimento. O agravante foi condenado por receptação qualificada. Em sua loja de conserto e venda de celulares, adquiriu aparelho produto de roubo. A pena ficou em 3 (três) anos e 4 (quatro) dias de reclusão, em regime semiaberto, depois do afastamento da reincidência. A decisão agravada manteve a negativa de substituição da pena, porque a culpabilidade negativa basta, por si, para afastá-la. 2. O agravante sustenta que a culpabilidade foi negativada por crime cometido durante o cumprimento de pena. Afirma que o fato ocorreu antes do trânsito em julgado da condenação anterior. Pede a substituição da pena ou a concessão de habeas corpus de ofício. II. Questão em discussão 3. Há duas questões em discussão: (i) saber se o agravo regimental pode veicular tese não deduzida no recurso especial; e (ii) saber se há ilegalidade flagrante na valoração negativa da culpabilidade por crime cometido durante o cumprimento de pena, quando o fato antecede o trânsito em julgado da condenação anterior. III. Razões de decidir 4. O recurso especial impugnou apenas a reutilização da culpabilidade negativa para negar a substituição da pena. A alegação de premissa fática inexistente surgiu somente no agravo regimental. A inovação recursal é inviável nessa via. 5. O acórdão recorrido assentou que o crime ocorreu entre 14 e 15 de janeiro de 2024. Assentou também que a condenação anterior foi proferida e transitou em julgado em 18 de janeiro de 2024. Na data do fato, portanto, o agravante não cumpria pena nem fruía benefícios da execução. A contradição resulta das próprias premissas do acórdão e configura ilegalidade flagrante, sanável de ofício (art. 654, § 2º, do CPP). 6. Afastada a única circunstância judicial desfavorável, a pena-base volta ao mínimo legal de 3 (três) anos de reclusão. A confissão espontânea não reduz a pena aquém do mínimo (Súmula n. 231/STJ). O agravante não é reincidente e tem todas as circunstâncias judiciais favoráveis. Faz jus, assim, ao regime aberto e à substituição da pena por duas restritivas de direitos (arts. 33, § 2º, alínea “c”, e 44 do CP). IV. Dispositivo 7. Agravo regimental desprovido. Habeas corpus concedido de ofício para fixar a pena em 3 (três) anos de reclusão e 10 (dez) dias-multa, em regime aberto, substituída a pena privativa de liberdade por duas restritivas de direitos.",
+   "tags": [
+    "culpabilidade",
+    "pena-base",
+    "habeas corpus de ofício",
+    "DF"
+   ],
+   "imagem": "img/stj-culpabilidade-crime-anterior-transito-julgado.jpg",
+   "imagemAlt": "Pasta de arquivo antiga e carimbo de madeira"
+  },
+  {
+   "id": "stj-fracoes-pena-total-detracao-depois",
+   "data": "2026-10-27",
+   "tribunal": "STJ",
+   "orgao": "Quinta Turma (decisão monocrática)",
+   "area": "Execução Penal",
+   "impacto": "favoravel",
+   "temas": [
+    "Execução penal"
+   ],
+   "titulo": "STJ: frações dos benefícios incidem sobre a pena total, e a prisão cautelar é descontada depois",
+   "assunto": "",
+   "processo": "HC 1.120.535-SP, Rel. Ministro Reynaldo Soares da Fonseca, decisão monocrática de 23/10/2026, DJEN de 27/10/2026.",
+   "fonteNome": "Consulta processual do STJ – pesquise pelo número do processo",
+   "fonteUrl": "https://consulta-processo.web.stj.jus.br/",
+   "rotuloTexto": "Trechos do inteiro teor",
+   "texto": "Ante o exposto, não conheço do habeas corpus, mas concedo a ordem, de ofício, para determinar ao Juízo da execução que: i) retifique o cálculo de liquidação de penas, fazendo incidir as frações legais dos benefícios sobre a pena total de 7 anos e, posteriormente, computando como pena efetivamente cumprida o período de prisão cautelar, nos termos do art. 42 do Código Penal; ii) atualize o cálculo com a remição já declarada de 30 dias pelo trabalho exercido na prisão cautelar, em acréscimo aos 66 dias anteriormente reconhecidos, observando os requisitos legais e as anotações constantes da decisão de 03/09/2026.",
+   "tags": [
+    "cálculo de pena",
+    "detração",
+    "progressão de regime",
+    "SP"
+   ],
+   "imagem": "img/stj-fracoes-pena-total-detracao-depois.jpg",
+   "imagemAlt": "Calculadora antiga e folha quadriculada sobre mesa"
+  },
+  {
+   "id": "stj-interrogatorio-policial-sem-advogado-prejuizo",
+   "data": "2026-10-27",
+   "tribunal": "STJ",
+   "orgao": "Quinta Turma",
+   "area": "Processo Penal",
+   "impacto": "desfavoravel",
+   "temas": [
+    "Nulidades"
+   ],
+   "titulo": "STJ: falta de aviso sobre assistência de advogado no interrogatório policial só anula o ato se houver prejuízo",
+   "assunto": "DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. INTERROGATÓRIO POLICIAL. ADVERTÊNCIA AO DIREITO AO SILÊNCIO. ASSISTÊNCIA DE ADVOGADO. NULIDADE RELATIVA. AUSÊNCIA DE PREJUÍZO. AGRAVO DESPROVIDO.",
+   "processo": "AgRg no RHC n. 237.825/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/10/2026, DJEN de 27/10/2026.",
+   "fonteNome": "Consulta processual do STJ – pesquise pelo número do processo",
+   "fonteUrl": "https://consulta-processo.web.stj.jus.br/",
+   "rotuloTexto": "Ementa",
+   "texto": "I. CASO EM EXAME 1. O recurso. Agravo regimental interposto contra decisão monocrática que negou provimento ao recurso ordinário em habeas corpus. 2. Fato relevante. Prisão em flagrante e denúncia pelos crimes dos arts. 33, caput, da Lei nº 11.343/2006, e 16, parágrafo único, IV, da Lei nº 10.826/2003. Defesa sustenta nulidade do interrogatório extrajudicial por ausência de advertência prévia quanto ao direito à assistência de advogado; Corte estadual denega a ordem ao consignar que houve advertência prévia quanto ao direito ao silêncio e que a prescindibilidade de defensor em interrogatório policial afasta nulidade automática. 3. As decisões anteriores. Em recurso ordinário, a defesa reiterou a nulidade absoluta por inversão de formalidade essencial (CPP, art. 564, IV) e afronta ao art. 5º, LXIII, da CF, postulando desentranhamento do ato e das provas derivadas. Liminar indeferida e parecer ministerial pelo desprovimento. Decisão agravada manteve o entendimento pela inexistência de nulidade, reputando eventual irregularidade como nulidade relativa dependente de demonstração de prejuízo (CPP, art. 563) e destacando que confissão policial é retratável e não basta à condenação (CPP, art. 155). II. QUESTÃO EM DISCUSSÃO 4. Há duas questões em discussão: (i) saber se a ausência de advertência prévia quanto à faculdade de assistência de advogado em interrogatório policial, não obstante a advertência prévia do direito ao silêncio, acarreta nulidade absoluta por inversão de formalidade essencial ou, quando muito, nulidade relativa condicionada à demonstração de prejuízo concreto; e (ii) saber se a confissão extrajudicial obtida na fase inquisitorial pode produzir efeitos sem corroboração por provas colhidas sob contraditório judicial, inclusive quando invocada em alegações finais. III. RAZÕES DE DECIDIR 5. A natureza inquisitiva do inquérito policial torna prescindível a presença de defensor no interrogatório extrajudicial, não incidindo, com a mesma amplitude da fase judicial, as garantias do contraditório e da ampla defesa. 6. O elemento essencial do ato é a advertência prévia do direito ao silêncio, núcleo da proteção contra a autoincriminação (CF, art. 5º, LXIII), observada no caso antes da inquirição, afastando nulidade por violação ao direito ao silêncio. 7. A ausência de advertência prévia quanto à faculdade de assistência técnica, em interrogatório policial, configura, quando muito, nulidade relativa, cuja declaração demanda comprovação de prejuízo concreto (CPP, art. 563), não demonstrado. 8. A confissão prestada na fase policial é retratável em juízo e, isoladamente, não fundamenta condenação, exigindo corroboração por elementos produzidos sob contraditório (CPP, art. 155); a sua invocação em alegações finais não vincula o julgador. 9. A discussão sobre valoração e eventual contaminação de provas é matéria própria do juízo da causa e refoge aos limites cognitivos do habeas corpus e do recurso ordinário correspondente. IV. DISPOSITIVO E TESE 10. Resultado do Julgamento: Agravo regimental desprovido. Tese de julgamento: 1. A presença de defensor em interrogatório policial é prescindível, sendo essencial a advertência prévia do direito ao silêncio. 2. A falta de advertência prévia quanto à assistência de advogado em interrogatório policial gera, no máximo, nulidade relativa e exige prova de prejuízo concreto (CPP, art. 563). 3. A confissão extrajudicial é retratável e, isoladamente, não sustenta condenação, devendo ser corroborada por provas colhidas sob contraditório (CPP, art. 155). 4. A aferição do peso da confissão policial e seu cotejo com a prova judicializada pertencem ao juízo da causa e não se resolvem em habeas corpus. Dispositivos relevantes citados: CF/1988, art. 5º, LXIII; CPP, arts. 155, 563 e 564, IV; Lei nº 11.343/2006, art. 33, caput; Lei nº 10.826/2003, art. 16, parágrafo único, IV. Jurisprudência relevante citada: AgRg no RHC n. 228.335/SP.",
+   "tags": [
+    "interrogatório policial",
+    "direito ao silêncio",
+    "nulidade relativa",
+    "PR"
+   ],
+   "imagemAlt": "Sala de depoimento vazia com cadeira e mesa",
+   "imagem": "img/stj-interrogatorio-policial-sem-advogado-prejuizo.jpg"
+  },
+  {
+   "id": "stj-consequencias-crime-abalo-generico-pena-base",
+   "data": "2026-10-26",
+   "tribunal": "STJ",
+   "orgao": "Sexta Turma",
+   "area": "Direito Penal",
+   "impacto": "favoravel",
+   "temas": [
+    "Dosimetria e pena"
+   ],
+   "titulo": "STJ: menção genérica a abalo psicológico não justifica elevar a pena-base pelas consequências do crime",
+   "assunto": "DIREITO PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. ÓBICE DA SÚMULA N. 7 DO STJ. IMPUGNAÇÃO GENÉRICA. INOBSERVÂNCIA DA DIALETICIDADE RECURSAL. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. HABEAS CORPUS DE OFÍCIO. DOSIMETRIA DA PENA. CONSEQUÊNCIAS DO CRIME. AGRAVO NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.",
+   "processo": "AREsp n. 3.182.829/AC, relator Ministro Og Fernandes, Sexta Turma, julgado em 20/10/2026, DJEN de 26/10/2026.",
+   "fonteNome": "Consulta processual do STJ – pesquise pelo número do processo",
+   "fonteUrl": "https://consulta-processo.web.stj.jus.br/",
+   "rotuloTexto": "Ementa",
+   "texto": "1. O princípio da dialeticidade exige impugnação específica dos fundamentos da decisão agravada. A simples menção ao óbice da Súmula n. 7 do STJ e a afirmativa genérica de “revaloração jurídica” não suprem a exigência. 2. Para afastar a incidência da Súmula n. 7 do STJ, é indispensável demonstrar, de forma pontual, por meio de cotejo analítico entre as premissas fáticas fixadas no acórdão recorrido e as teses jurídicas, que a solução da controvérsia independe do reexame do conjunto fático-probatório. 3. A ausência de impugnação específica atrai a incidência da Súmula n. 182 do STJ, o que impede o conhecimento do agravo em recurso especial. 4. À luz do CPP, art. 647-A, revela-se possível a concessão de habeas corpus de ofício quando constatada flagrante ilegalidade na exasperação da pena-base. 5. A valoração negativa das “consequências do crime” na primeira fase da dosimetria (CP, art. 59) exige fundamentação idônea baseada em dados concretos que ultrapassem os efeitos ordinários do tipo penal. A referência inespecífica a abalo psicológico não justifica a exasperação. 6. No caso, os fundamentos adotados para negativar o vetor “consequências do crime” não evidenciam repercussão especialmente gravosa além daquela inerente ao crime de estupro, impondo o afastamento do vetor e a nova individualização da pena pelo Tribunal de origem. 7. Agravo em recurso especial não conhecido. Ordem de habeas corpus concedida de ofício para afastar a valoração negativa do vetor “consequências do crime”.",
+   "tags": [
+    "consequências do crime",
+    "pena-base",
+    "CP art. 59",
+    "AC"
+   ],
+   "imagem": "img/stj-consequencias-crime-abalo-generico-pena-base.jpg",
+   "imagemAlt": "Régua de madeira e lápis sobre folhas em branco"
+  },
+  {
    "id": "stj-inf906-hipertensao-domiciliar-preventiva",
    "data": "2026-10-20",
    "tribunal": "STJ",
@@ -288,6 +524,33 @@
    ],
    "imagem": "img/stj-inf906-hipertensao-domiciliar-preventiva.jpg",
    "imagemAlt": "Estetoscópio e medidor de pressão sobre mesa clara"
+  },
+  {
+   "id": "stj-celular-sem-autorizacao-confissao-derivada",
+   "data": "2026-10-20",
+   "tribunal": "STJ",
+   "orgao": "Sexta Turma",
+   "area": "Processo Penal",
+   "impacto": "favoravel",
+   "temas": [
+    "Provas e buscas",
+    "Nulidades"
+   ],
+   "titulo": "STJ: acesso a celular sem autorização judicial é ilícito e contamina até a confissão feita em juízo",
+   "assunto": "AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO MAJORADO. ACESSO A DADOS DE APARELHO CELULAR. RESERVA DE JURISDIÇÃO. ENCONTRO FORTUITO. CADEIA DE CUSTÓDIA. AUSÊNCIA DE ELEMENTOS SEGUROS DE AUTORIA. ILICITUDE DA PROVA. CONFIGURAÇÃO. TEORIA DOS FRUTOS DA ÁRVORE ENVENENADA. CONFISSÃO JUDICIAL COMO PROVA DERIVADA. AGRAVO REGIMENTAL NÃO PROVIDO.",
+   "processo": "AgRg no REsp n. 1.939.308/DF, relator Ministro Rogerio Schietti, Sexta Turma, julgado em 15/10/2026, DJEN de 20/10/2026.",
+   "fonteNome": "Consulta processual do STJ – pesquise pelo número do processo",
+   "fonteUrl": "https://consulta-processo.web.stj.jus.br/",
+   "rotuloTexto": "Ementa",
+   "texto": "1. A jurisprudência das Turmas que compõem a Terceira Seção do Superior Tribunal de Justiça firmou-se no sentido de considerar ilícita a devassa de dados constantes de celular, obtidas diretamente pela polícia em aparelho apreendido, por ocasião da prisão em flagrante, sem prévia autorização judicial. O Supremo Tribunal Federal, ao julgar o ARE n. 1.042.075 (Tema n. 977 da Repercussão Geral), fixou a tese de que, em se tratando de aparelho celular apreendido na forma do art. 6º do CPP ou por ocasião de prisão em flagrante, o acesso aos respectivos dados será condicionado ao consentimento expresso e livre do titular dos dados ou de prévia decisão judicial, que justifique, com base em elementos concretos, a proporcionalidade da medida e delimite sua abrangência à luz dos direitos fundamentais à intimidade, à privacidade, à proteção dos dados pessoais e à autodeterminação informacional, inclusive nos meios digitais (art. 5º, X e LXXIX, da CRFB/88). 2. A mera apreensão do dispositivo não autoriza, por si só, o acesso aos dados nele armazenados. Tratam-se de atos juridicamente distintos: enquanto a apreensão constitui providência cautelar destinada a preservar a fonte de prova, o acesso ao conteúdo do aparelho configura verdadeira medida de busca de prova, sujeita à reserva de jurisdição, por implicar restrição a direitos fundamentais. Na sociedade contemporânea, o aparelho celular deixou de ser mero instrumento de comunicação por voz para se tornar verdadeiro repositório da vida privada de seu usuário, pois nele estão armazenados, além dos registros de chamadas e mensagens, fotografias pessoais, dados bancários, informações de saúde, histórico de localização, correspondências eletrônicas e interações em redes sociais – conjunto de informações que, reunido, permite traçar perfil detalhado da intimidade, dos hábitos e das relações pessoais do indivíduo. A razão do Supremo ao criar a hipótese do item 1.1 do Tema n. 977 foi precisamente a de contemplar situação em que a polícia, sem nenhuma medida coercitiva prévia, encontra objeto abandonado no espaço público ou na cena do crime, sem nenhuma intervenção sobre a pessoa do suspeito. Ainda que se admitisse o enquadramento do caso concreto na hipótese de encontro fortuito prevista no item 1.1 do Tema n. 977, a dispensa de autorização judicial ali consagrada não é absoluta nem incondicionada: o próprio enunciado da tese exige a) que o acesso tenha por finalidade exclusiva o esclarecimento da autoria do fato criminoso ou da identidade do proprietário do aparelho e b) que a adoção da medida seja justificada posteriormente. 3. No caso concreto, o aparelho celular não foi encontrado pela polícia na cena do crime durante inspeção de rotina ou em local público. Foi resgatado pela própria vítima, que o avistou durante a perseguição que empreendeu contra os autores do delito, e posteriormente entregue à autoridade policial na delegacia, por ocasião do registro da ocorrência. O intervalo entre o resgate do aparelho pela vítima e a sua efetiva entrega à autoridade policial, sem nenhum registro formal de lacramento ou preservação da cadeia de custódia dos dados telemáticos, compromete a integridade e a confiabilidade do material probatório. Ademais, a moldura fática delineada nos autos evidencia a total ausência de elementos que permitam concluir, com a segurança mínima exigida pelo processo penal, que o aparelho celular encontrado durante a fuga pertencia, efetivamente, a um dos autores do roubo e, mais especificamente, ao recorrente. A própria vítima declarou expressamente que não foi possível reconhecer o postulante como um dos autores do roubo, uma vez que este se encontrava com o rosto coberto por uma máscara durante a ação delituosa, de forma que sua identificação se fundou exclusivamente na existência de fotografias suas armazenadas no aparelho celular encontrado – circunstância que, no máximo, indica a titularidade do dispositivo, mas que é insuficiente para demonstrar o envolvimento na ação delituosa. O acesso aos dados do celular foi, simultaneamente, o único meio disponível para identificar o suspeito e a única prova de sua participação no delito. 4. A confissão judicial foi colhida em momento posterior à identificação do agravado por meio do acesso ilícito ao celular. Sem a devassa nos dados do aparelho, o agravado jamais teria sido identificado, jamais haveria sido investigado, jamais haveria sido denunciado e, portanto, jamais haveria prestado declarações em juízo. A confissão é, nessa perspectiva, um fruto derivado da prova ilícita, alcançada pela teoria dos frutos da árvore envenenada (art. 157, § 1º, do CPP). O reconhecimento da ilicitude da prova originária não afasta, per se, a condenação: a cassação da sentença foi determinada para que o Juízo de primeiro grau proceda a nova análise do conjunto probatório remanescente, devendo expurgar as provas ilícitas e suas derivadas e verificar se, sem elas, ainda há suporte suficiente para a manutenção da condenação. A teoria da descoberta inevitável (art. 157, § 2º, do CPP), invocável quando a prova seria produzida de qualquer modo como resultado das atividades investigativas regulares, não se aplica ao caso, pois não há nos autos nenhum elemento que indique que a identificação do agravado seria inevitavelmente alcançada por outro meio independente; ao contrário, as diligências realizadas foram infrutíferas e a vítima era incapaz de reconhecê-lo. 5. Agravo regimental não provido.",
+   "tags": [
+    "celular",
+    "prova ilícita",
+    "frutos da árvore envenenada",
+    "Tema 977"
+   ],
+   "imagemAlt": "Celular sobre mesa de madeira em luz suave",
+   "imagem": "img/stj-celular-sem-autorizacao-confissao-derivada.jpg"
   },
   {
    "id": "trf4-bol275-busca-suspeita-generica-descaminho",
