@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-11T14:50:00-03:00",
+ "atualizadoEm": "2026-11-12T15:45:56-03:00",
  "posts": [
   {
    "id": "stj-inf909-juri-prazo-mp-defensoria-entrega-autos",
@@ -792,6 +792,34 @@
    "imagemAlt": "Livro-caixa aberto, recibos em branco e caneta-tinteiro"
   },
   {
+   "id": "trf4-bol276-situacao-de-rua-oitiva-previa-regressao",
+   "data": "2026-10-14",
+   "tribunal": "TRF4",
+   "orgao": "8ª Turma",
+   "area": "Execução Penal",
+   "impacto": "favoravel",
+   "temas": [
+    "Execução penal",
+    "Prisões e cautelares"
+   ],
+   "titulo": "TRF4: apenado em situação de rua deve ser ouvido antes da conversão da pena e da regressão de regime",
+   "assunto": "Pena restritiva de direitos em privativa de liberdade. Regressão de regime. Apenado em situação de rua. Necessidade de prévia oitiva. Parcial provimento.",
+   "processo": "Agravo de Execução Penal nº 9000264-38.2026.4.04.7004, 8ª Turma, por unanimidade, julgado em 14/10/2026.",
+   "rotuloTexto": "Destaque do Boletim Jurídico",
+   "texto": "A não localização de apenado em situação de rua não autoriza a conversão imediata das penas restritivas de direitos em privativa de liberdade ou a regressão de regime sem a realização de prévia audiência de justificação, sendo cabível a expedição de mandado de prisão cautelar exclusivamente para sua localização e apresentação em juízo.",
+   "tags": [
+    "execução penal",
+    "situação de rua",
+    "audiência de justificação",
+    "regressão de regime"
+   ],
+   "imagem": "img/trf4-bol276-situacao-de-rua-oitiva-previa-regressao.jpg",
+   "imagemAlt": "Banco de praça de madeira vazio sob luz de fim de tarde",
+   "fonteNome": "Boletim Jurídico nº 276 (EMAGIS/TRF4)",
+   "fonteUrl": "https://www2.trf4.jus.br/trf4/controlador.php?acao=revista_visualizar&id_revista=460",
+   "ementaPendente": false
+  },
+  {
    "id": "stj-inf905-municao-unica-insignificancia",
    "data": "2026-10-13",
    "tribunal": "STJ",
@@ -992,6 +1020,61 @@
    ],
    "imagem": "img/stj-inf901-blitz-transito-busca-veicular.jpg",
    "imagemAlt": "Cones de trânsito numa avenida à noite"
+  },
+  {
+   "id": "trf4-bol276-multa-hipossuficiencia-progressao",
+   "data": "2026-09-15",
+   "tribunal": "TRF4",
+   "orgao": "7ª Turma",
+   "area": "Execução Penal",
+   "impacto": "favoravel",
+   "temas": [
+    "Execução penal",
+    "Dosimetria e pena"
+   ],
+   "titulo": "TRF4: multa não paga por hipossuficiência comprovada não impede a progressão de regime",
+   "assunto": "Progressão de regime. Inadimplemento da pena de multa. Hipossuficiência econômica comprovada. Parcial provimento do recurso.",
+   "processo": "Agravo de Execução Penal nº 9000393-04.2026.4.04.7017, 7ª Turma, por maioria, julgado em 15/09/2026.",
+   "rotuloTexto": "Destaque do Boletim Jurídico",
+   "texto": "O inadimplemento da pena de multa não obsta a progressão de regime de cumprimento de pena quando atribui ao tribunal o dever de reavaliar o caso diretamente em sede de apelação, nos termos dos arts. 231 e 616 do CPP.",
+   "tags": [
+    "pena de multa",
+    "progressão de regime",
+    "hipossuficiência",
+    "execução penal"
+   ],
+   "imagem": "img/trf4-bol276-multa-hipossuficiencia-progressao.jpg",
+   "imagemAlt": "Moedas e talão de pagamento sobre mesa de madeira",
+   "fonteNome": "Boletim Jurídico nº 276 (EMAGIS/TRF4)",
+   "fonteUrl": "https://www2.trf4.jus.br/trf4/controlador.php?acao=revista_visualizar&id_revista=460",
+   "ementaPendente": false
+  },
+  {
+   "id": "trf4-bol276-monitoramento-eletronico-custeio-indevido",
+   "data": "2026-09-15",
+   "tribunal": "TRF4",
+   "orgao": "7ª Turma",
+   "area": "Execução Penal",
+   "impacto": "favoravel",
+   "temas": [
+    "Execução penal"
+   ],
+   "titulo": "TRF4: é indevida a cobrança dos custos do monitoramento eletrônico do apenado",
+   "assunto": "Monitoramento eletrônico. Cobrança de despesas de custeio do apenado. Ausência de previsão legal. Provimento do recurso.",
+   "processo": "Agravo de Execução Penal nº 9000481-93.2026.4.04.7000, 7ª Turma, por unanimidade, julgado em 15/09/2026.",
+   "rotuloTexto": "Destaque do Boletim Jurídico",
+   "texto": "É indevida a cobrança das despesas de monitoramento eletrônico do apenado, por ausência de previsão legal e por ser desarrazoado impor ao executado o custeio de medida estatal de fiscalização.",
+   "tags": [
+    "monitoramento eletrônico",
+    "execução penal",
+    "custeio",
+    "ausência de previsão legal"
+   ],
+   "imagem": "img/trf4-bol276-monitoramento-eletronico-custeio-indevido.jpg",
+   "imagemAlt": "Dispositivo de monitoramento ao lado de caderno aberto",
+   "fonteNome": "Boletim Jurídico nº 276 (EMAGIS/TRF4)",
+   "fonteUrl": "https://www2.trf4.jus.br/trf4/controlador.php?acao=revista_visualizar&id_revista=460",
+   "ementaPendente": false
   },
   {
    "id": "tjsc-aviso-de-miranda-busca-veicular",
